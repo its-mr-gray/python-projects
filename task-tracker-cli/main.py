@@ -3,7 +3,7 @@ The application should run from the command line, accept user actions and inputs
 
     Add, Update, and Delete tasks
     Mark a task as in progress or done
-    List all tasks
+    List all tasks <- DONE
     List all tasks that are done
     List all tasks that are not done
     List all tasks that are in progress
@@ -31,13 +31,27 @@ if not os.path.exists(json_file):
         json.dump(default_data, f, indent=2)
 
 parser = argparse.ArgumentParser()
-
-parser.add_argument("list", help="lists all tasks in your task tracker (:")
-
+subparsers = parser.add_subparsers(dest="command", required=True)
+list_task_parser = subparsers.add_parser("list", help="list all tasks in the tracker.")
+add_task_parser = subparsers.add_parser("add", help="add a new task.")
+update_task_parser = subparsers.add_parser("update", help="update a task.")
+remove_task_parser = subparsers.add_parser("remove", help="remove a task.")
 args = parser.parse_args()
 
-with open(json_file, "r") as f:
+with open(json_file, "r+") as f:
     data = json.load(f)
 
-if args.list:
-    print(json.dumps(data, indent=2))
+    if args.command == "list":
+        print(json.dumps(data, indent=2))
+    elif args.command == "add":
+        new_task = input("what would you like to add?")
+        data["TODO"].append(new_task)
+        f.seek(0)
+        json.dump(data, f, indent=2)
+        f.truncate()
+    elif args.command == "remove":
+        remove_task = input("which task would you like to remove?")
+        data["TODO"] = [task for task in data["TODO"] if task != remove_task]
+        f.seek(0)
+        json.dump(data, f, indent=2)
+        f.truncate()
