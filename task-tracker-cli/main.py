@@ -10,11 +10,11 @@ The application should run from the command line, accept user actions and inputs
 
 Here are some constraints to guide the implementation:
 
-    Use positional arguments in command line to accept user inputs.
+    Use positional arguments in command line to accept user inputs. <- DONE
     Use a JSON file to store the tasks in the current directory. <- DONE
     The JSON file should be created if it does not exist. <- DONE
-    Use the native file system module of your programming language to interact with the JSON file.
-    Do not use any external libraries or frameworks to build this project.
+    Use the native file system module of your programming language to interact with the JSON file. <- Done
+    Do not use any external libraries or frameworks to build this project. <- DONE
     Ensure to handle errors and edge cases gracefully.
 
 """
@@ -49,6 +49,17 @@ with open(json_file, "r+") as f:
         f.seek(0)
         json.dump(data, f, indent=2)
         f.truncate()
+    elif args.command == "update":
+        update_task = input("what task needs updating?")
+        status_query = input(
+            "does the status of this task need to be updated? Y/N \n"
+        ).upper()
+        if status_query == "Y":
+            update_status = input("what is the updated status of this task?")
+            # update status logic
+        elif status_query == "N":
+            updated_task = input("please input the update for this task")
+            # update task logic
     elif args.command == "remove":
         remove_task = input("which task would you like to remove?")
         data["TODO"] = [task for task in data["TODO"] if task != remove_task]
