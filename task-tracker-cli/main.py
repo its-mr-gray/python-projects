@@ -44,24 +44,24 @@ with open(json_file, "r+") as f:
     if args.command == "list":
         print(json.dumps(data, indent=2))
     elif args.command == "add":
-        new_task = input("what would you like to add?")
+        new_task = input("what would you like to add?\n")
         data["TODO"].append(new_task)
         f.seek(0)
         json.dump(data, f, indent=2)
         f.truncate()
     elif args.command == "update":
-        update_task = input("what task needs updating?")
+        update_task = input("what task needs updating?\n")
         status_query = input(
-            "does the status of this task need to be updated? Y/N \n"
+            "does the status of this task need to be updated? Y/N\n"
         ).upper()
         if status_query == "Y":
-            update_status = input("what is the updated status of this task?")
+            update_status = input("what is the updated status of this task?\n")
             # update status logic
         elif status_query == "N":
-            updated_task = input("please input the update for this task")
+            updated_task = input("please input the update for this task\n")
             # update task logic
     elif args.command == "remove":
-        remove_task = input("which task would you like to remove?")
+        remove_task = input("which task would you like to remove?\n")
         data["TODO"] = [task for task in data["TODO"] if task != remove_task]
         f.seek(0)
         json.dump(data, f, indent=2)
