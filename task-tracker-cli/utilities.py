@@ -8,10 +8,9 @@ def list_unfinished_tasks(
     data: dict[str, list[str]],
     task_status: list[str],
 ) -> list[str]:
-    unfinished_tasks = []
-    for val in task_status:
-        for vals in data[val]:
-            unfinished_tasks.append(vals)
+    for status in task_status:
+        unfinished_tasks = [tasks for tasks in data[status]]
+
     return unfinished_tasks
 
 
@@ -28,16 +27,20 @@ def add_task(
     task: str,
 ) -> list[str]:
     data[task_status].append(task)
+
     return data[task_status]
 
 
 def update_task_status(
     data: dict[str, list[str]],
-    current_task_status: list[str],
     task: str,
+    current_status: str,
     new_task_status: str,
 ) -> dict[str, list[str]]:
-    pass
+    data[current_status].remove(task)
+    data[new_task_status].append(task)
+
+    return data
 
 
 def remove_task(
@@ -46,4 +49,5 @@ def remove_task(
     task_status: str,
 ) -> dict[str, list[str]]:
     data[task_status] = [val for val in data[task_status] if val != task]
+
     return data
