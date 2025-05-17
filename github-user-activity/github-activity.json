@@ -1,0 +1,894 @@
+[
+  {
+    "id": "49825366001",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24348192920,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "790a92f25b51fa3430f80c584299fad648b6731b",
+      "before": "da3eb2f3c568bee17a036a8de09f428d60013da2",
+      "commits": [
+        {
+          "sha": "790a92f25b51fa3430f80c584299fad648b6731b",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "update README for task-tracker directions",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/790a92f25b51fa3430f80c584299fad648b6731b"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-17T00:47:49Z"
+  },
+  {
+    "id": "49825139602",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24348060252,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "da3eb2f3c568bee17a036a8de09f428d60013da2",
+      "before": "6b70a17787d1eb99d03e2b73e5503dc66c8d6e7f",
+      "commits": [
+        {
+          "sha": "da3eb2f3c568bee17a036a8de09f428d60013da2",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "remove docstring",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/da3eb2f3c568bee17a036a8de09f428d60013da2"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-17T00:29:16Z"
+  },
+  {
+    "id": "49824920215",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24347937862,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "6b70a17787d1eb99d03e2b73e5503dc66c8d6e7f",
+      "before": "472de33fda38ba9cb3558a1b8b73e4e86c6386fa",
+      "commits": [
+        {
+          "sha": "6b70a17787d1eb99d03e2b73e5503dc66c8d6e7f",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "update README.",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/6b70a17787d1eb99d03e2b73e5503dc66c8d6e7f"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-17T00:12:00Z"
+  },
+  {
+    "id": "49824846575",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24347897985,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/main",
+      "head": "472de33fda38ba9cb3558a1b8b73e4e86c6386fa",
+      "before": "02c491da68eeb3970aab477e30c5d297b823cb7a",
+      "commits": [
+        {
+          "sha": "bbfe8992ab90a59237b0fe68ab45226bb691d161",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "add error handling",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/bbfe8992ab90a59237b0fe68ab45226bb691d161"
+        },
+        {
+          "sha": "472de33fda38ba9cb3558a1b8b73e4e86c6386fa",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "remove .json file",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/472de33fda38ba9cb3558a1b8b73e4e86c6386fa"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-17T00:06:13Z"
+  },
+  {
+    "id": "49821121164",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24345915252,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "02c491da68eeb3970aab477e30c5d297b823cb7a",
+      "before": "8dbfce66643f10ad6d36c4376af60f023a12fa2e",
+      "commits": [
+        {
+          "sha": "02c491da68eeb3970aab477e30c5d297b823cb7a",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "add json helper functions, update parser command strings",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/02c491da68eeb3970aab477e30c5d297b823cb7a"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-16T20:42:03Z"
+  },
+  {
+    "id": "49809899101",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24340346217,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "8dbfce66643f10ad6d36c4376af60f023a12fa2e",
+      "before": "b44a8cc121f54d21a98206def2d8ae9575723523",
+      "commits": [
+        {
+          "sha": "8dbfce66643f10ad6d36c4376af60f023a12fa2e",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "complete helper function creation, clean up main.py, add positional arguments to subparsers to reduce reliance on direct user input",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/8dbfce66643f10ad6d36c4376af60f023a12fa2e"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-16T14:44:08Z"
+  },
+  {
+    "id": "49804789159",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24337853392,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "b44a8cc121f54d21a98206def2d8ae9575723523",
+      "before": "e38acce2985caa8ec95ecdbec9ea6acd7dd55c72",
+      "commits": [
+        {
+          "sha": "b44a8cc121f54d21a98206def2d8ae9575723523",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "begin refactoring code",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/b44a8cc121f54d21a98206def2d8ae9575723523"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-16T12:40:18Z"
+  },
+  {
+    "id": "49783626522",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24327210022,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "e38acce2985caa8ec95ecdbec9ea6acd7dd55c72",
+      "before": "cdf43a789ddf03e73dff9e44927859363c0ea3ab",
+      "commits": [
+        {
+          "sha": "e38acce2985caa8ec95ecdbec9ea6acd7dd55c72",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "add extra list commands, add update task command",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/e38acce2985caa8ec95ecdbec9ea6acd7dd55c72"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-16T00:13:55Z"
+  },
+  {
+    "id": "49760941647",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24316201349,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "cdf43a789ddf03e73dff9e44927859363c0ea3ab",
+      "before": "130e99baef7ab3bde50f196bed163871f892293d",
+      "commits": [
+        {
+          "sha": "cdf43a789ddf03e73dff9e44927859363c0ea3ab",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "add line breaks for return statements.",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/cdf43a789ddf03e73dff9e44927859363c0ea3ab"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-15T13:11:38Z"
+  },
+  {
+    "id": "49760671140",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24316056783,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "130e99baef7ab3bde50f196bed163871f892293d",
+      "before": "f9d65bde588fde8edbb72be1e24aa9203dc70a34",
+      "commits": [
+        {
+          "sha": "130e99baef7ab3bde50f196bed163871f892293d",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "begin update task logic",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/130e99baef7ab3bde50f196bed163871f892293d"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-15T13:05:49Z"
+  },
+  {
+    "id": "49715917508",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24294036579,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "f9d65bde588fde8edbb72be1e24aa9203dc70a34",
+      "before": "15f1e8038e2ff092100ca2af5c97a695fbb84271",
+      "commits": [
+        {
+          "sha": "f9d65bde588fde8edbb72be1e24aa9203dc70a34",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "add .gitignore",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/f9d65bde588fde8edbb72be1e24aa9203dc70a34"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-14T14:02:34Z"
+  },
+  {
+    "id": "49715880198",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24294019151,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/main",
+      "head": "15f1e8038e2ff092100ca2af5c97a695fbb84271",
+      "before": "ccd941a030e4106450cfa9dc16a65b99bdd50a9a",
+      "commits": [
+        {
+          "sha": "585ad40b45b85a8ad6e2fab229ec0149e4bed72f",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "add .gitignore, create subparsers for add and remove commands and code respective functionality",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/585ad40b45b85a8ad6e2fab229ec0149e4bed72f"
+        },
+        {
+          "sha": "15f1e8038e2ff092100ca2af5c97a695fbb84271",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "Merge branch 'main' of https://github.com/its-mr-gray/python-projects",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/15f1e8038e2ff092100ca2af5c97a695fbb84271"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-14T14:01:50Z"
+  },
+  {
+    "id": "49686173606",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 307260205,
+      "name": "yt-dlp/yt-dlp",
+      "url": "https://api.github.com/repos/yt-dlp/yt-dlp"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2025-05-13T22:05:11Z",
+    "org": {
+      "id": 79589310,
+      "login": "yt-dlp",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/yt-dlp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79589310?"
+    }
+  },
+  {
+    "id": "49685238284",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24278819460,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "ccd941a030e4106450cfa9dc16a65b99bdd50a9a",
+      "before": "aac03a24280c45ae0569f25f4437ba71ccc95318",
+      "commits": [
+        {
+          "sha": "ccd941a030e4106450cfa9dc16a65b99bdd50a9a",
+          "author": {
+            "email": "112123741+its-mr-gray@users.noreply.github.com",
+            "name": "its-mr-gray"
+          },
+          "message": "Update README.md",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/ccd941a030e4106450cfa9dc16a65b99bdd50a9a"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-13T21:28:17Z"
+  },
+  {
+    "id": "49685222021",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24278811323,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "aac03a24280c45ae0569f25f4437ba71ccc95318",
+      "before": "deab8b0c19a04e312c17e06cbf80841bb9c6f7e5",
+      "commits": [
+        {
+          "sha": "aac03a24280c45ae0569f25f4437ba71ccc95318",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "add project files for task tracker CLI",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/aac03a24280c45ae0569f25f4437ba71ccc95318"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-13T21:27:42Z"
+  },
+  {
+    "id": "49685197050",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "ref": "main",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-05-13T21:26:47Z"
+  },
+  {
+    "id": "49685147057",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "main",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-05-13T21:24:58Z"
+  },
+  {
+    "id": "49684219990",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 981737196,
+      "name": "its-mr-gray/task-tracker-cli",
+      "url": "https://api.github.com/repos/its-mr-gray/task-tracker-cli"
+    },
+    "payload": {
+      "repository_id": 981737196,
+      "push_id": 24278322608,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "e98f61000bafbdaa85e8a5162ff37f06bb36cecb",
+      "before": "60c04aa408309db70c1da59acfdd288d2d2d4193",
+      "commits": [
+        {
+          "sha": "e98f61000bafbdaa85e8a5162ff37f06bb36cecb",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "start working with argparse to allow listing of tasks",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/task-tracker-cli/commits/e98f61000bafbdaa85e8a5162ff37f06bb36cecb"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-13T20:54:03Z"
+  },
+  {
+    "id": "49591373641",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 981737196,
+      "name": "its-mr-gray/task-tracker-cli",
+      "url": "https://api.github.com/repos/its-mr-gray/task-tracker-cli"
+    },
+    "payload": {
+      "ref": "main",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-05-11T19:25:25Z"
+  },
+  {
+    "id": "49591340000",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 981737196,
+      "name": "its-mr-gray/task-tracker-cli",
+      "url": "https://api.github.com/repos/its-mr-gray/task-tracker-cli"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "main",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-05-11T19:22:18Z"
+  },
+  {
+    "id": "49591328089",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 501412894,
+      "name": "codecrafters-io/build-your-own-redis",
+      "url": "https://api.github.com/repos/codecrafters-io/build-your-own-redis"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2025-05-11T19:21:18Z",
+    "org": {
+      "id": 58904235,
+      "login": "codecrafters-io",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/codecrafters-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58904235?"
+    }
+  },
+  {
+    "id": "49477721588",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 88011908,
+      "name": "practical-tutorials/project-based-learning",
+      "url": "https://api.github.com/repos/practical-tutorials/project-based-learning"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2025-05-07T22:34:28Z",
+    "org": {
+      "id": 89421154,
+      "login": "practical-tutorials",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/practical-tutorials",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89421154?"
+    }
+  },
+  {
+    "id": "49477720449",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 132750724,
+      "name": "codecrafters-io/build-your-own-x",
+      "url": "https://api.github.com/repos/codecrafters-io/build-your-own-x"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2025-05-07T22:34:25Z",
+    "org": {
+      "id": 58904235,
+      "login": "codecrafters-io",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/codecrafters-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58904235?"
+    }
+  },
+  {
+    "id": "49312265294",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 976823412,
+      "name": "its-mr-gray/nvim-config",
+      "url": "https://api.github.com/repos/its-mr-gray/nvim-config"
+    },
+    "payload": {
+      "ref": "main",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-05-02T20:26:45Z"
+  },
+  {
+    "id": "49312099471",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 976823412,
+      "name": "its-mr-gray/nvim-config",
+      "url": "https://api.github.com/repos/its-mr-gray/nvim-config"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "main",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-05-02T20:20:11Z"
+  }
+]
