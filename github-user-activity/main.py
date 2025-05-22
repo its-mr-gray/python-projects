@@ -38,9 +38,9 @@ additional information about the user or their repositories.
 import argparse
 import json
 import os
+from collections import defaultdict
 
 import requests
-import utilities
 
 parser = argparse.ArgumentParser()
 parser.add_argument(
@@ -54,16 +54,20 @@ json_file = "github-activity.json"
 
 url = f"https://api.github.com/users/{username}/events"
 r = requests.get(url)
-data = json.loads(r.text)
+data: list = json.loads(r.text)
 
 if not os.path.exists(json_file):
     with open(json_file, "w") as f:
         json.dump(data, f, indent=2)
 
+activity_dict: dict = defaultdict(lambda: defaultdict(int))
 
-push_event = utilities.get_event(data=data, event_type="PushEvent")
+for event in data:
+    repo_name: str = event["repo"]["name"]
+    event_type: str = event["type"]
+    activity_dict[repo_name][event_type] += 1
+
 
 if __name__ == "__main__":
-    # for i in range(len(data)):
-    #     print(data[i].keys())
-    print(f"pushed {len(push_event)} commits")
+    for repo, events in activity_dict.items():
+        print(repo, dict(events))
