@@ -1,3 +1,9 @@
+"""
+parsers.py
+
+contains the argument parsers for the CLI application
+"""
+
 import argparse
 
 parser = argparse.ArgumentParser()

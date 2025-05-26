@@ -1,2653 +1,1094 @@
 [
   {
-    "id": "49999812705",
+    "id": "50124906184",
     "type": "PushEvent",
     "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
     },
     "repo": {
-      "id": 776224857,
-      "name": "ThePrimeagen/dev",
-      "url": "https://api.github.com/repos/ThePrimeagen/dev"
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
     },
     "payload": {
-      "repository_id": 776224857,
-      "push_id": 24438383186,
+      "repository_id": 983087919,
+      "push_id": 24505446988,
       "size": 1,
       "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "0dd87b55c85ba765c0e060fc95b6f3d8a4c5ff52",
-      "before": "a8cbfe641572760fde39deba320bec92150d0d33",
+      "ref": "refs/heads/main",
+      "head": "f140066ba7fdb25a61ab60f6f6ba92a9e8698174",
+      "before": "b13562e6398640b6e49d134672f88f15ded43d7b",
       "commits": [
         {
-          "sha": "0dd87b55c85ba765c0e060fc95b6f3d8a4c5ff52",
+          "sha": "f140066ba7fdb25a61ab60f6f6ba92a9e8698174",
           "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
           },
-          "message": "automated dev commit",
+          "message": "begin code refactor",
           "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/dev/commits/0dd87b55c85ba765c0e060fc95b6f3d8a4c5ff52"
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/f140066ba7fdb25a61ab60f6f6ba92a9e8698174"
         }
       ]
     },
     "public": true,
-    "created_at": "2025-05-21T22:40:15Z"
+    "created_at": "2025-05-26T00:20:50Z"
   },
   {
-    "id": "49999808109",
+    "id": "50091821179",
     "type": "PushEvent",
     "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
     },
     "repo": {
-      "id": 776224857,
-      "name": "ThePrimeagen/dev",
-      "url": "https://api.github.com/repos/ThePrimeagen/dev"
+      "id": 989300080,
+      "name": "its-mr-gray/dotnet-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/dotnet-projects"
     },
     "payload": {
-      "repository_id": 776224857,
-      "push_id": 24438380811,
+      "repository_id": 989300080,
+      "push_id": 24483710668,
       "size": 1,
       "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "a8cbfe641572760fde39deba320bec92150d0d33",
-      "before": "3d87edf76da8a78a7eaeeeeeb2ddda2fe9a2c7fb",
+      "ref": "refs/heads/main",
+      "head": "92b78376a982c9150a61642e0de5b699a76990f5",
+      "before": "4fd4f9ca1665d77731892ceaffe7dff62d648787",
       "commits": [
         {
-          "sha": "a8cbfe641572760fde39deba320bec92150d0d33",
+          "sha": "92b78376a982c9150a61642e0de5b699a76990f5",
           "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
           },
-          "message": "automated dev commit",
+          "message": "add TaskItem model, create barebone functionality for CLI",
           "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/dev/commits/a8cbfe641572760fde39deba320bec92150d0d33"
+          "url": "https://api.github.com/repos/its-mr-gray/dotnet-projects/commits/92b78376a982c9150a61642e0de5b699a76990f5"
         }
       ]
     },
     "public": true,
-    "created_at": "2025-05-21T22:40:03Z"
+    "created_at": "2025-05-23T22:54:30Z"
   },
   {
-    "id": "49999807395",
+    "id": "50089290614",
     "type": "PushEvent",
     "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
     },
     "repo": {
-      "id": 577135082,
-      "name": "ThePrimeagen/init.lua",
-      "url": "https://api.github.com/repos/ThePrimeagen/init.lua"
+      "id": 989300080,
+      "name": "its-mr-gray/dotnet-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/dotnet-projects"
     },
     "payload": {
-      "repository_id": 577135082,
-      "push_id": 24438380545,
+      "repository_id": 989300080,
+      "push_id": 24482372779,
       "size": 1,
       "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "5c343a843adaae48aa87a598b2e7bbcdbd098678",
-      "before": "158c9ccd652e5921cc6940205da6ed20776e7cc7",
+      "ref": "refs/heads/main",
+      "head": "4fd4f9ca1665d77731892ceaffe7dff62d648787",
+      "before": "01808e0f96008bc331c1ff6a330f8f791c7fa086",
       "commits": [
         {
-          "sha": "5c343a843adaae48aa87a598b2e7bbcdbd098678",
+          "sha": "4fd4f9ca1665d77731892ceaffe7dff62d648787",
           "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
           },
-          "message": "automated dev commit",
+          "message": "initial commit",
           "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/init.lua/commits/5c343a843adaae48aa87a598b2e7bbcdbd098678"
+          "url": "https://api.github.com/repos/its-mr-gray/dotnet-projects/commits/4fd4f9ca1665d77731892ceaffe7dff62d648787"
         }
       ]
     },
     "public": true,
-    "created_at": "2025-05-21T22:40:01Z"
+    "created_at": "2025-05-23T20:49:33Z"
   },
   {
-    "id": "49732380020",
-    "type": "PushEvent",
+    "id": "50089156535",
+    "type": "CreateEvent",
     "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
     },
     "repo": {
-      "id": 880883259,
-      "name": "ThePrimeagen/tmux-sessionizer",
-      "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer"
+      "id": 989300080,
+      "name": "its-mr-gray/dotnet-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/dotnet-projects"
     },
     "payload": {
-      "repository_id": 880883259,
-      "push_id": 24301952648,
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "main",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-05-23T20:44:08Z"
+  },
+  {
+    "id": "50089156472",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 989300080,
+      "name": "its-mr-gray/dotnet-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/dotnet-projects"
+    },
+    "payload": {
+      "ref": "main",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-05-23T20:44:08Z"
+  },
+  {
+    "id": "50039851615",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24458108597,
       "size": 1,
       "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "82a7c36f9bf2f228d3ef50d0e69d114b64ebdd13",
-      "before": "fa17fa10a47db3a5a3e4f22f1b7eea618691b058",
+      "ref": "refs/heads/main",
+      "head": "b13562e6398640b6e49d134672f88f15ded43d7b",
+      "before": "3d45cd62ecf294802fe7ee67bf9565f1e9e89e57",
       "commits": [
         {
-          "sha": "82a7c36f9bf2f228d3ef50d0e69d114b64ebdd13",
+          "sha": "b13562e6398640b6e49d134672f88f15ded43d7b",
           "author": {
-            "email": "the.primeagen@gmail.com",
-            "name": "ThePrimeagen"
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "add counts of events per repo.",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/b13562e6398640b6e49d134672f88f15ded43d7b"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-22T18:14:55Z"
+  },
+  {
+    "id": "49837395260",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24355981565,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "3d45cd62ecf294802fe7ee67bf9565f1e9e89e57",
+      "before": "790a92f25b51fa3430f80c584299fad648b6731b",
+      "commits": [
+        {
+          "sha": "3d45cd62ecf294802fe7ee67bf9565f1e9e89e57",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "begin work on github user activity cli, update README.",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/3d45cd62ecf294802fe7ee67bf9565f1e9e89e57"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-17T18:22:47Z"
+  },
+  {
+    "id": "49825366001",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24348192920,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "790a92f25b51fa3430f80c584299fad648b6731b",
+      "before": "da3eb2f3c568bee17a036a8de09f428d60013da2",
+      "commits": [
+        {
+          "sha": "790a92f25b51fa3430f80c584299fad648b6731b",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "update README for task-tracker directions",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/790a92f25b51fa3430f80c584299fad648b6731b"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-17T00:47:49Z"
+  },
+  {
+    "id": "49825139602",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24348060252,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "da3eb2f3c568bee17a036a8de09f428d60013da2",
+      "before": "6b70a17787d1eb99d03e2b73e5503dc66c8d6e7f",
+      "commits": [
+        {
+          "sha": "da3eb2f3c568bee17a036a8de09f428d60013da2",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "remove docstring",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/da3eb2f3c568bee17a036a8de09f428d60013da2"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-17T00:29:16Z"
+  },
+  {
+    "id": "49824920215",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24347937862,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "6b70a17787d1eb99d03e2b73e5503dc66c8d6e7f",
+      "before": "472de33fda38ba9cb3558a1b8b73e4e86c6386fa",
+      "commits": [
+        {
+          "sha": "6b70a17787d1eb99d03e2b73e5503dc66c8d6e7f",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "update README.",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/6b70a17787d1eb99d03e2b73e5503dc66c8d6e7f"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-17T00:12:00Z"
+  },
+  {
+    "id": "49824846575",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24347897985,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/main",
+      "head": "472de33fda38ba9cb3558a1b8b73e4e86c6386fa",
+      "before": "02c491da68eeb3970aab477e30c5d297b823cb7a",
+      "commits": [
+        {
+          "sha": "bbfe8992ab90a59237b0fe68ab45226bb691d161",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "add error handling",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/bbfe8992ab90a59237b0fe68ab45226bb691d161"
+        },
+        {
+          "sha": "472de33fda38ba9cb3558a1b8b73e4e86c6386fa",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "remove .json file",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/472de33fda38ba9cb3558a1b8b73e4e86c6386fa"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-17T00:06:13Z"
+  },
+  {
+    "id": "49821121164",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24345915252,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "02c491da68eeb3970aab477e30c5d297b823cb7a",
+      "before": "8dbfce66643f10ad6d36c4376af60f023a12fa2e",
+      "commits": [
+        {
+          "sha": "02c491da68eeb3970aab477e30c5d297b823cb7a",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "add json helper functions, update parser command strings",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/02c491da68eeb3970aab477e30c5d297b823cb7a"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-16T20:42:03Z"
+  },
+  {
+    "id": "49809899101",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24340346217,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "8dbfce66643f10ad6d36c4376af60f023a12fa2e",
+      "before": "b44a8cc121f54d21a98206def2d8ae9575723523",
+      "commits": [
+        {
+          "sha": "8dbfce66643f10ad6d36c4376af60f023a12fa2e",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "complete helper function creation, clean up main.py, add positional arguments to subparsers to reduce reliance on direct user input",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/8dbfce66643f10ad6d36c4376af60f023a12fa2e"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-16T14:44:08Z"
+  },
+  {
+    "id": "49804789159",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24337853392,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "b44a8cc121f54d21a98206def2d8ae9575723523",
+      "before": "e38acce2985caa8ec95ecdbec9ea6acd7dd55c72",
+      "commits": [
+        {
+          "sha": "b44a8cc121f54d21a98206def2d8ae9575723523",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "begin refactoring code",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/b44a8cc121f54d21a98206def2d8ae9575723523"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-16T12:40:18Z"
+  },
+  {
+    "id": "49783626522",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24327210022,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "e38acce2985caa8ec95ecdbec9ea6acd7dd55c72",
+      "before": "cdf43a789ddf03e73dff9e44927859363c0ea3ab",
+      "commits": [
+        {
+          "sha": "e38acce2985caa8ec95ecdbec9ea6acd7dd55c72",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "add extra list commands, add update task command",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/e38acce2985caa8ec95ecdbec9ea6acd7dd55c72"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-16T00:13:55Z"
+  },
+  {
+    "id": "49760941647",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24316201349,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "cdf43a789ddf03e73dff9e44927859363c0ea3ab",
+      "before": "130e99baef7ab3bde50f196bed163871f892293d",
+      "commits": [
+        {
+          "sha": "cdf43a789ddf03e73dff9e44927859363c0ea3ab",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "add line breaks for return statements.",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/cdf43a789ddf03e73dff9e44927859363c0ea3ab"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-15T13:11:38Z"
+  },
+  {
+    "id": "49760671140",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24316056783,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "130e99baef7ab3bde50f196bed163871f892293d",
+      "before": "f9d65bde588fde8edbb72be1e24aa9203dc70a34",
+      "commits": [
+        {
+          "sha": "130e99baef7ab3bde50f196bed163871f892293d",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "begin update task logic",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/130e99baef7ab3bde50f196bed163871f892293d"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-15T13:05:49Z"
+  },
+  {
+    "id": "49715917508",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24294036579,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "f9d65bde588fde8edbb72be1e24aa9203dc70a34",
+      "before": "15f1e8038e2ff092100ca2af5c97a695fbb84271",
+      "commits": [
+        {
+          "sha": "f9d65bde588fde8edbb72be1e24aa9203dc70a34",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "add .gitignore",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/f9d65bde588fde8edbb72be1e24aa9203dc70a34"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-14T14:02:34Z"
+  },
+  {
+    "id": "49715880198",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24294019151,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/main",
+      "head": "15f1e8038e2ff092100ca2af5c97a695fbb84271",
+      "before": "ccd941a030e4106450cfa9dc16a65b99bdd50a9a",
+      "commits": [
+        {
+          "sha": "585ad40b45b85a8ad6e2fab229ec0149e4bed72f",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "add .gitignore, create subparsers for add and remove commands and code respective functionality",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/585ad40b45b85a8ad6e2fab229ec0149e4bed72f"
+        },
+        {
+          "sha": "15f1e8038e2ff092100ca2af5c97a695fbb84271",
+          "author": {
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
+          },
+          "message": "Merge branch 'main' of https://github.com/its-mr-gray/python-projects",
+          "distinct": true,
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/15f1e8038e2ff092100ca2af5c97a695fbb84271"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-05-14T14:01:50Z"
+  },
+  {
+    "id": "49686173606",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 307260205,
+      "name": "yt-dlp/yt-dlp",
+      "url": "https://api.github.com/repos/yt-dlp/yt-dlp"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2025-05-13T22:05:11Z",
+    "org": {
+      "id": 79589310,
+      "login": "yt-dlp",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/yt-dlp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79589310?"
+    }
+  },
+  {
+    "id": "49685238284",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
+    },
+    "payload": {
+      "repository_id": 983087919,
+      "push_id": 24278819460,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "ccd941a030e4106450cfa9dc16a65b99bdd50a9a",
+      "before": "aac03a24280c45ae0569f25f4437ba71ccc95318",
+      "commits": [
+        {
+          "sha": "ccd941a030e4106450cfa9dc16a65b99bdd50a9a",
+          "author": {
+            "email": "112123741+its-mr-gray@users.noreply.github.com",
+            "name": "its-mr-gray"
           },
           "message": "Update README.md",
           "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/commits/82a7c36f9bf2f228d3ef50d0e69d114b64ebdd13"
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/ccd941a030e4106450cfa9dc16a65b99bdd50a9a"
         }
       ]
     },
     "public": true,
-    "created_at": "2025-05-14T21:11:27Z"
+    "created_at": "2025-05-13T21:28:17Z"
   },
   {
-    "id": "49732341824",
-    "type": "IssueCommentEvent",
-    "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
-    },
-    "repo": {
-      "id": 880883259,
-      "name": "ThePrimeagen/tmux-sessionizer",
-      "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer"
-    },
-    "payload": {
-      "action": "created",
-      "issue": {
-        "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/19",
-        "repository_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer",
-        "labels_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/19/labels{/name}",
-        "comments_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/19/comments",
-        "events_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/19/events",
-        "html_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/19",
-        "id": 3045717217,
-        "node_id": "PR_kwDONIE2O86VQpcv",
-        "number": 19,
-        "title": "feat: Added optional configuration and fine-tune TS behavior",
-        "user": {
-          "login": "0112358132134-my",
-          "id": 1516505,
-          "node_id": "MDQ6VXNlcjE1MTY1MDU=",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1516505?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/0112358132134-my",
-          "html_url": "https://github.com/0112358132134-my",
-          "followers_url": "https://api.github.com/users/0112358132134-my/followers",
-          "following_url": "https://api.github.com/users/0112358132134-my/following{/other_user}",
-          "gists_url": "https://api.github.com/users/0112358132134-my/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/0112358132134-my/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/0112358132134-my/subscriptions",
-          "organizations_url": "https://api.github.com/users/0112358132134-my/orgs",
-          "repos_url": "https://api.github.com/users/0112358132134-my/repos",
-          "events_url": "https://api.github.com/users/0112358132134-my/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/0112358132134-my/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "labels": [],
-        "state": "closed",
-        "locked": false,
-        "assignee": null,
-        "assignees": [],
-        "milestone": null,
-        "comments": 2,
-        "created_at": "2025-05-07T11:55:37Z",
-        "updated_at": "2025-05-14T21:10:13Z",
-        "closed_at": "2025-05-14T21:09:58Z",
-        "author_association": "CONTRIBUTOR",
-        "active_lock_reason": null,
-        "draft": false,
-        "pull_request": {
-          "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/19",
-          "html_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/19",
-          "diff_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/19.diff",
-          "patch_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/19.patch",
-          "merged_at": "2025-05-14T21:09:58Z"
-        },
-        "body": "+ Added optional configuration file  \r\n+ Introduced optional override for global max-depth's find default  \r\n+ Added optional max-depth find parameter per directory  \r\n+ Enabled override of default search path (~/ ~/personal ~/personal/dev/env/.config)  \r\n+ Allowed addition of extra search paths  \r\n+ fzf now displays existing tmux sessions in the list  ",
-        "reactions": {
-          "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/19/reactions",
-          "total_count": 0,
-          "+1": 0,
-          "-1": 0,
-          "laugh": 0,
-          "hooray": 0,
-          "confused": 0,
-          "heart": 0,
-          "rocket": 0,
-          "eyes": 0
-        },
-        "timeline_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/19/timeline",
-        "performed_via_github_app": null,
-        "state_reason": null
-      },
-      "comment": {
-        "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/comments/2881586192",
-        "html_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/19#issuecomment-2881586192",
-        "issue_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/19",
-        "id": 2881586192,
-        "node_id": "IC_kwDONIE2O86rwYQQ",
-        "user": {
-          "login": "ThePrimeagen",
-          "id": 4458174,
-          "node_id": "MDQ6VXNlcjQ0NTgxNzQ=",
-          "avatar_url": "https://avatars.githubusercontent.com/u/4458174?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/ThePrimeagen",
-          "html_url": "https://github.com/ThePrimeagen",
-          "followers_url": "https://api.github.com/users/ThePrimeagen/followers",
-          "following_url": "https://api.github.com/users/ThePrimeagen/following{/other_user}",
-          "gists_url": "https://api.github.com/users/ThePrimeagen/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/ThePrimeagen/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/ThePrimeagen/subscriptions",
-          "organizations_url": "https://api.github.com/users/ThePrimeagen/orgs",
-          "repos_url": "https://api.github.com/users/ThePrimeagen/repos",
-          "events_url": "https://api.github.com/users/ThePrimeagen/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/ThePrimeagen/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "created_at": "2025-05-14T21:10:12Z",
-        "updated_at": "2025-05-14T21:10:12Z",
-        "author_association": "OWNER",
-        "body": "an oopsy or two \r\n\r\n```\r\n  /home/theprimeagen/.config\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2502\r\n  /home/theprimeagen/.cargopecified the global option -mindepth after the argument -path, but g\u2502  /home/theprimeagen/neovimonal, i.e., -mindepth affects tests specified before it as well as t\u2502  /home/theprimeagen/Downloadse specify global options before other arguments.                 \u2502\r\n  /home/theprimeagen/.npm                                                     find: warning: yo\u2502  [TMUX] eleven-streameral option -maxdepth after the argument -path, but global options are no\u2502\u258c [TMUX] dev i.e., -maxdepth affects tests specified before it as well as those specified after\u2502  47/47 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\r\n```\r\n\r\ni don't really know why though :)\r\n\r\ni'll merge this but i made a small change to move -min and -max depth to the front of the list",
-        "reactions": {
-          "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/comments/2881586192/reactions",
-          "total_count": 0,
-          "+1": 0,
-          "-1": 0,
-          "laugh": 0,
-          "hooray": 0,
-          "confused": 0,
-          "heart": 0,
-          "rocket": 0,
-          "eyes": 0
-        },
-        "performed_via_github_app": null
-      }
-    },
-    "public": true,
-    "created_at": "2025-05-14T21:10:13Z"
-  },
-  {
-    "id": "49732334029",
-    "type": "PullRequestEvent",
-    "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
-    },
-    "repo": {
-      "id": 880883259,
-      "name": "ThePrimeagen/tmux-sessionizer",
-      "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer"
-    },
-    "payload": {
-      "action": "closed",
-      "number": 19,
-      "pull_request": {
-        "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/19",
-        "id": 2504169263,
-        "node_id": "PR_kwDONIE2O86VQpcv",
-        "html_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/19",
-        "diff_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/19.diff",
-        "patch_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/19.patch",
-        "issue_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/19",
-        "number": 19,
-        "state": "closed",
-        "locked": false,
-        "title": "feat: Added optional configuration and fine-tune TS behavior",
-        "user": {
-          "login": "0112358132134-my",
-          "id": 1516505,
-          "node_id": "MDQ6VXNlcjE1MTY1MDU=",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1516505?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/0112358132134-my",
-          "html_url": "https://github.com/0112358132134-my",
-          "followers_url": "https://api.github.com/users/0112358132134-my/followers",
-          "following_url": "https://api.github.com/users/0112358132134-my/following{/other_user}",
-          "gists_url": "https://api.github.com/users/0112358132134-my/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/0112358132134-my/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/0112358132134-my/subscriptions",
-          "organizations_url": "https://api.github.com/users/0112358132134-my/orgs",
-          "repos_url": "https://api.github.com/users/0112358132134-my/repos",
-          "events_url": "https://api.github.com/users/0112358132134-my/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/0112358132134-my/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "body": "+ Added optional configuration file  \r\n+ Introduced optional override for global max-depth's find default  \r\n+ Added optional max-depth find parameter per directory  \r\n+ Enabled override of default search path (~/ ~/personal ~/personal/dev/env/.config)  \r\n+ Allowed addition of extra search paths  \r\n+ fzf now displays existing tmux sessions in the list  ",
-        "created_at": "2025-05-07T11:55:37Z",
-        "updated_at": "2025-05-14T21:09:58Z",
-        "closed_at": "2025-05-14T21:09:58Z",
-        "merged_at": "2025-05-14T21:09:58Z",
-        "merge_commit_sha": "22da139c05cc8bb0982354207fea564d67324bab",
-        "assignee": null,
-        "assignees": [],
-        "requested_reviewers": [],
-        "requested_teams": [],
-        "labels": [],
-        "milestone": null,
-        "draft": false,
-        "commits_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/19/commits",
-        "review_comments_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/19/comments",
-        "review_comment_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/comments{/number}",
-        "comments_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/19/comments",
-        "statuses_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/statuses/22da139c05cc8bb0982354207fea564d67324bab",
-        "head": {
-          "label": "0112358132134-my:optional_config",
-          "ref": "optional_config",
-          "sha": "22da139c05cc8bb0982354207fea564d67324bab",
-          "user": {
-            "login": "0112358132134-my",
-            "id": 1516505,
-            "node_id": "MDQ6VXNlcjE1MTY1MDU=",
-            "avatar_url": "https://avatars.githubusercontent.com/u/1516505?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/0112358132134-my",
-            "html_url": "https://github.com/0112358132134-my",
-            "followers_url": "https://api.github.com/users/0112358132134-my/followers",
-            "following_url": "https://api.github.com/users/0112358132134-my/following{/other_user}",
-            "gists_url": "https://api.github.com/users/0112358132134-my/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/0112358132134-my/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/0112358132134-my/subscriptions",
-            "organizations_url": "https://api.github.com/users/0112358132134-my/orgs",
-            "repos_url": "https://api.github.com/users/0112358132134-my/repos",
-            "events_url": "https://api.github.com/users/0112358132134-my/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/0112358132134-my/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "repo": {
-            "id": 979307311,
-            "node_id": "R_kgDOOl8LLw",
-            "name": "tmux-sessionizer",
-            "full_name": "0112358132134-my/tmux-sessionizer",
-            "private": false,
-            "owner": {
-              "login": "0112358132134-my",
-              "id": 1516505,
-              "node_id": "MDQ6VXNlcjE1MTY1MDU=",
-              "avatar_url": "https://avatars.githubusercontent.com/u/1516505?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/0112358132134-my",
-              "html_url": "https://github.com/0112358132134-my",
-              "followers_url": "https://api.github.com/users/0112358132134-my/followers",
-              "following_url": "https://api.github.com/users/0112358132134-my/following{/other_user}",
-              "gists_url": "https://api.github.com/users/0112358132134-my/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/0112358132134-my/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/0112358132134-my/subscriptions",
-              "organizations_url": "https://api.github.com/users/0112358132134-my/orgs",
-              "repos_url": "https://api.github.com/users/0112358132134-my/repos",
-              "events_url": "https://api.github.com/users/0112358132134-my/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/0112358132134-my/received_events",
-              "type": "User",
-              "user_view_type": "public",
-              "site_admin": false
-            },
-            "html_url": "https://github.com/0112358132134-my/tmux-sessionizer",
-            "description": null,
-            "fork": true,
-            "url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer",
-            "forks_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/forks",
-            "keys_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/keys{/key_id}",
-            "collaborators_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/collaborators{/collaborator}",
-            "teams_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/teams",
-            "hooks_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/hooks",
-            "issue_events_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/issues/events{/number}",
-            "events_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/events",
-            "assignees_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/assignees{/user}",
-            "branches_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/branches{/branch}",
-            "tags_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/tags",
-            "blobs_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/git/blobs{/sha}",
-            "git_tags_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/git/tags{/sha}",
-            "git_refs_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/git/refs{/sha}",
-            "trees_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/git/trees{/sha}",
-            "statuses_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/statuses/{sha}",
-            "languages_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/languages",
-            "stargazers_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/stargazers",
-            "contributors_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/contributors",
-            "subscribers_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/subscribers",
-            "subscription_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/subscription",
-            "commits_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/commits{/sha}",
-            "git_commits_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/git/commits{/sha}",
-            "comments_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/comments{/number}",
-            "issue_comment_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/issues/comments{/number}",
-            "contents_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/contents/{+path}",
-            "compare_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/compare/{base}...{head}",
-            "merges_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/merges",
-            "archive_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/{archive_format}{/ref}",
-            "downloads_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/downloads",
-            "issues_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/issues{/number}",
-            "pulls_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/pulls{/number}",
-            "milestones_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/milestones{/number}",
-            "notifications_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/notifications{?since,all,participating}",
-            "labels_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/labels{/name}",
-            "releases_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/releases{/id}",
-            "deployments_url": "https://api.github.com/repos/0112358132134-my/tmux-sessionizer/deployments",
-            "created_at": "2025-05-07T10:07:10Z",
-            "updated_at": "2025-05-14T07:34:09Z",
-            "pushed_at": "2025-05-14T07:53:06Z",
-            "git_url": "git://github.com/0112358132134-my/tmux-sessionizer.git",
-            "ssh_url": "git@github.com:0112358132134-my/tmux-sessionizer.git",
-            "clone_url": "https://github.com/0112358132134-my/tmux-sessionizer.git",
-            "svn_url": "https://github.com/0112358132134-my/tmux-sessionizer",
-            "homepage": null,
-            "size": 5,
-            "stargazers_count": 0,
-            "watchers_count": 0,
-            "language": "Shell",
-            "has_issues": false,
-            "has_projects": true,
-            "has_downloads": true,
-            "has_wiki": true,
-            "has_pages": false,
-            "has_discussions": false,
-            "forks_count": 0,
-            "mirror_url": null,
-            "archived": false,
-            "disabled": false,
-            "open_issues_count": 0,
-            "license": null,
-            "allow_forking": true,
-            "is_template": false,
-            "web_commit_signoff_required": false,
-            "topics": [],
-            "visibility": "public",
-            "forks": 0,
-            "open_issues": 0,
-            "watchers": 0,
-            "default_branch": "master"
-          }
-        },
-        "base": {
-          "label": "ThePrimeagen:master",
-          "ref": "master",
-          "sha": "2d399e84387f2c697678ec43e8396be1f9b4bda8",
-          "user": {
-            "login": "ThePrimeagen",
-            "id": 4458174,
-            "node_id": "MDQ6VXNlcjQ0NTgxNzQ=",
-            "avatar_url": "https://avatars.githubusercontent.com/u/4458174?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/ThePrimeagen",
-            "html_url": "https://github.com/ThePrimeagen",
-            "followers_url": "https://api.github.com/users/ThePrimeagen/followers",
-            "following_url": "https://api.github.com/users/ThePrimeagen/following{/other_user}",
-            "gists_url": "https://api.github.com/users/ThePrimeagen/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/ThePrimeagen/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/ThePrimeagen/subscriptions",
-            "organizations_url": "https://api.github.com/users/ThePrimeagen/orgs",
-            "repos_url": "https://api.github.com/users/ThePrimeagen/repos",
-            "events_url": "https://api.github.com/users/ThePrimeagen/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/ThePrimeagen/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "repo": {
-            "id": 880883259,
-            "node_id": "R_kgDONIE2Ow",
-            "name": "tmux-sessionizer",
-            "full_name": "ThePrimeagen/tmux-sessionizer",
-            "private": false,
-            "owner": {
-              "login": "ThePrimeagen",
-              "id": 4458174,
-              "node_id": "MDQ6VXNlcjQ0NTgxNzQ=",
-              "avatar_url": "https://avatars.githubusercontent.com/u/4458174?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/ThePrimeagen",
-              "html_url": "https://github.com/ThePrimeagen",
-              "followers_url": "https://api.github.com/users/ThePrimeagen/followers",
-              "following_url": "https://api.github.com/users/ThePrimeagen/following{/other_user}",
-              "gists_url": "https://api.github.com/users/ThePrimeagen/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/ThePrimeagen/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/ThePrimeagen/subscriptions",
-              "organizations_url": "https://api.github.com/users/ThePrimeagen/orgs",
-              "repos_url": "https://api.github.com/users/ThePrimeagen/repos",
-              "events_url": "https://api.github.com/users/ThePrimeagen/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/ThePrimeagen/received_events",
-              "type": "User",
-              "user_view_type": "public",
-              "site_admin": false
-            },
-            "html_url": "https://github.com/ThePrimeagen/tmux-sessionizer",
-            "description": null,
-            "fork": false,
-            "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer",
-            "forks_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/forks",
-            "keys_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/keys{/key_id}",
-            "collaborators_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/collaborators{/collaborator}",
-            "teams_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/teams",
-            "hooks_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/hooks",
-            "issue_events_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/events{/number}",
-            "events_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/events",
-            "assignees_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/assignees{/user}",
-            "branches_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/branches{/branch}",
-            "tags_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/tags",
-            "blobs_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/git/blobs{/sha}",
-            "git_tags_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/git/tags{/sha}",
-            "git_refs_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/git/refs{/sha}",
-            "trees_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/git/trees{/sha}",
-            "statuses_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/statuses/{sha}",
-            "languages_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/languages",
-            "stargazers_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/stargazers",
-            "contributors_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/contributors",
-            "subscribers_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/subscribers",
-            "subscription_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/subscription",
-            "commits_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/commits{/sha}",
-            "git_commits_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/git/commits{/sha}",
-            "comments_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/comments{/number}",
-            "issue_comment_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/comments{/number}",
-            "contents_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/contents/{+path}",
-            "compare_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/compare/{base}...{head}",
-            "merges_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/merges",
-            "archive_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/{archive_format}{/ref}",
-            "downloads_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/downloads",
-            "issues_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues{/number}",
-            "pulls_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls{/number}",
-            "milestones_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/milestones{/number}",
-            "notifications_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/notifications{?since,all,participating}",
-            "labels_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/labels{/name}",
-            "releases_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/releases{/id}",
-            "deployments_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/deployments",
-            "created_at": "2024-10-30T14:35:39Z",
-            "updated_at": "2025-05-14T19:38:13Z",
-            "pushed_at": "2025-05-14T21:09:57Z",
-            "git_url": "git://github.com/ThePrimeagen/tmux-sessionizer.git",
-            "ssh_url": "git@github.com:ThePrimeagen/tmux-sessionizer.git",
-            "clone_url": "https://github.com/ThePrimeagen/tmux-sessionizer.git",
-            "svn_url": "https://github.com/ThePrimeagen/tmux-sessionizer",
-            "homepage": null,
-            "size": 2,
-            "stargazers_count": 139,
-            "watchers_count": 139,
-            "language": "Shell",
-            "has_issues": true,
-            "has_projects": true,
-            "has_downloads": true,
-            "has_wiki": true,
-            "has_pages": false,
-            "has_discussions": false,
-            "forks_count": 41,
-            "mirror_url": null,
-            "archived": false,
-            "disabled": false,
-            "open_issues_count": 11,
-            "license": null,
-            "allow_forking": true,
-            "is_template": false,
-            "web_commit_signoff_required": false,
-            "topics": [],
-            "visibility": "public",
-            "forks": 41,
-            "open_issues": 11,
-            "watchers": 139,
-            "default_branch": "master"
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/19"
-          },
-          "html": {
-            "href": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/19"
-          },
-          "issue": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/19"
-          },
-          "comments": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/19/comments"
-          },
-          "review_comments": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/19/comments"
-          },
-          "review_comment": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/comments{/number}"
-          },
-          "commits": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/19/commits"
-          },
-          "statuses": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/statuses/22da139c05cc8bb0982354207fea564d67324bab"
-          }
-        },
-        "author_association": "CONTRIBUTOR",
-        "auto_merge": null,
-        "active_lock_reason": null,
-        "merged": true,
-        "mergeable": null,
-        "rebaseable": null,
-        "mergeable_state": "unknown",
-        "merged_by": {
-          "login": "ThePrimeagen",
-          "id": 4458174,
-          "node_id": "MDQ6VXNlcjQ0NTgxNzQ=",
-          "avatar_url": "https://avatars.githubusercontent.com/u/4458174?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/ThePrimeagen",
-          "html_url": "https://github.com/ThePrimeagen",
-          "followers_url": "https://api.github.com/users/ThePrimeagen/followers",
-          "following_url": "https://api.github.com/users/ThePrimeagen/following{/other_user}",
-          "gists_url": "https://api.github.com/users/ThePrimeagen/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/ThePrimeagen/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/ThePrimeagen/subscriptions",
-          "organizations_url": "https://api.github.com/users/ThePrimeagen/orgs",
-          "repos_url": "https://api.github.com/users/ThePrimeagen/repos",
-          "events_url": "https://api.github.com/users/ThePrimeagen/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/ThePrimeagen/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "comments": 1,
-        "review_comments": 0,
-        "maintainer_can_modify": false,
-        "commits": 2,
-        "additions": 90,
-        "deletions": 16,
-        "changed_files": 1
-      }
-    },
-    "public": true,
-    "created_at": "2025-05-14T21:09:59Z"
-  },
-  {
-    "id": "49732333374",
+    "id": "49685222021",
     "type": "PushEvent",
     "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
     },
     "repo": {
-      "id": 880883259,
-      "name": "ThePrimeagen/tmux-sessionizer",
-      "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer"
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
     },
     "payload": {
-      "repository_id": 880883259,
-      "push_id": 24301929401,
-      "size": 3,
-      "distinct_size": 3,
-      "ref": "refs/heads/master",
-      "head": "fa17fa10a47db3a5a3e4f22f1b7eea618691b058",
-      "before": "2d399e84387f2c697678ec43e8396be1f9b4bda8",
-      "commits": [
-        {
-          "sha": "5c377ece04048a58035dbf310419f8737503f290",
-          "author": {
-            "email": "1516505+0112358132134-my@users.noreply.github.com",
-            "name": "github"
-          },
-          "message": "feat: Added optional configuration and fine-tune TS behavior",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/commits/5c377ece04048a58035dbf310419f8737503f290"
-        },
-        {
-          "sha": "22da139c05cc8bb0982354207fea564d67324bab",
-          "author": {
-            "email": "1516505+0112358132134-my@users.noreply.github.com",
-            "name": "github"
-          },
-          "message": "Resolve merge conflict",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/commits/22da139c05cc8bb0982354207fea564d67324bab"
-        },
-        {
-          "sha": "fa17fa10a47db3a5a3e4f22f1b7eea618691b058",
-          "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
-          },
-          "message": "small change",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/commits/fa17fa10a47db3a5a3e4f22f1b7eea618691b058"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-05-14T21:09:58Z"
-  },
-  {
-    "id": "49732203857",
-    "type": "IssueCommentEvent",
-    "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
-    },
-    "repo": {
-      "id": 880883259,
-      "name": "ThePrimeagen/tmux-sessionizer",
-      "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer"
-    },
-    "payload": {
-      "action": "created",
-      "issue": {
-        "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/19",
-        "repository_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer",
-        "labels_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/19/labels{/name}",
-        "comments_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/19/comments",
-        "events_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/19/events",
-        "html_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/19",
-        "id": 3045717217,
-        "node_id": "PR_kwDONIE2O86VQpcv",
-        "number": 19,
-        "title": "feat: Added optional configuration and fine-tune TS behavior",
-        "user": {
-          "login": "0112358132134-my",
-          "id": 1516505,
-          "node_id": "MDQ6VXNlcjE1MTY1MDU=",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1516505?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/0112358132134-my",
-          "html_url": "https://github.com/0112358132134-my",
-          "followers_url": "https://api.github.com/users/0112358132134-my/followers",
-          "following_url": "https://api.github.com/users/0112358132134-my/following{/other_user}",
-          "gists_url": "https://api.github.com/users/0112358132134-my/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/0112358132134-my/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/0112358132134-my/subscriptions",
-          "organizations_url": "https://api.github.com/users/0112358132134-my/orgs",
-          "repos_url": "https://api.github.com/users/0112358132134-my/repos",
-          "events_url": "https://api.github.com/users/0112358132134-my/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/0112358132134-my/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "labels": [],
-        "state": "open",
-        "locked": false,
-        "assignee": null,
-        "assignees": [],
-        "milestone": null,
-        "comments": 1,
-        "created_at": "2025-05-07T11:55:37Z",
-        "updated_at": "2025-05-14T21:05:47Z",
-        "closed_at": null,
-        "author_association": "NONE",
-        "active_lock_reason": null,
-        "draft": false,
-        "pull_request": {
-          "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/19",
-          "html_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/19",
-          "diff_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/19.diff",
-          "patch_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/19.patch",
-          "merged_at": null
-        },
-        "body": "+ Added optional configuration file  \r\n+ Introduced optional override for global max-depth's find default  \r\n+ Added optional max-depth find parameter per directory  \r\n+ Enabled override of default search path (~/ ~/personal ~/personal/dev/env/.config)  \r\n+ Allowed addition of extra search paths  \r\n+ fzf now displays existing tmux sessions in the list  ",
-        "reactions": {
-          "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/19/reactions",
-          "total_count": 0,
-          "+1": 0,
-          "-1": 0,
-          "laugh": 0,
-          "hooray": 0,
-          "confused": 0,
-          "heart": 0,
-          "rocket": 0,
-          "eyes": 0
-        },
-        "timeline_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/19/timeline",
-        "performed_via_github_app": null,
-        "state_reason": null
-      },
-      "comment": {
-        "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/comments/2881577276",
-        "html_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/19#issuecomment-2881577276",
-        "issue_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/19",
-        "id": 2881577276,
-        "node_id": "IC_kwDONIE2O86rwWE8",
-        "user": {
-          "login": "ThePrimeagen",
-          "id": 4458174,
-          "node_id": "MDQ6VXNlcjQ0NTgxNzQ=",
-          "avatar_url": "https://avatars.githubusercontent.com/u/4458174?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/ThePrimeagen",
-          "html_url": "https://github.com/ThePrimeagen",
-          "followers_url": "https://api.github.com/users/ThePrimeagen/followers",
-          "following_url": "https://api.github.com/users/ThePrimeagen/following{/other_user}",
-          "gists_url": "https://api.github.com/users/ThePrimeagen/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/ThePrimeagen/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/ThePrimeagen/subscriptions",
-          "organizations_url": "https://api.github.com/users/ThePrimeagen/orgs",
-          "repos_url": "https://api.github.com/users/ThePrimeagen/repos",
-          "events_url": "https://api.github.com/users/ThePrimeagen/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/ThePrimeagen/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "created_at": "2025-05-14T21:05:46Z",
-        "updated_at": "2025-05-14T21:05:46Z",
-        "author_association": "OWNER",
-        "body": "ok, let me test this and i may merge it",
-        "reactions": {
-          "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/comments/2881577276/reactions",
-          "total_count": 0,
-          "+1": 0,
-          "-1": 0,
-          "laugh": 0,
-          "hooray": 0,
-          "confused": 0,
-          "heart": 0,
-          "rocket": 0,
-          "eyes": 0
-        },
-        "performed_via_github_app": null
-      }
-    },
-    "public": true,
-    "created_at": "2025-05-14T21:05:47Z"
-  },
-  {
-    "id": "49716674157",
-    "type": "PushEvent",
-    "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
-    },
-    "repo": {
-      "id": 776224857,
-      "name": "ThePrimeagen/dev",
-      "url": "https://api.github.com/repos/ThePrimeagen/dev"
-    },
-    "payload": {
-      "repository_id": 776224857,
-      "push_id": 24294388461,
+      "repository_id": 983087919,
+      "push_id": 24278811323,
       "size": 1,
       "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "3d87edf76da8a78a7eaeeeeeb2ddda2fe9a2c7fb",
-      "before": "8bf3deacce91c8289d9f2e617f10da9733185696",
+      "ref": "refs/heads/main",
+      "head": "aac03a24280c45ae0569f25f4437ba71ccc95318",
+      "before": "deab8b0c19a04e312c17e06cbf80841bb9c6f7e5",
       "commits": [
         {
-          "sha": "3d87edf76da8a78a7eaeeeeeb2ddda2fe9a2c7fb",
+          "sha": "aac03a24280c45ae0569f25f4437ba71ccc95318",
           "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
           },
-          "message": "automated dev commit",
+          "message": "add project files for task tracker CLI",
           "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/dev/commits/3d87edf76da8a78a7eaeeeeeb2ddda2fe9a2c7fb"
+          "url": "https://api.github.com/repos/its-mr-gray/python-projects/commits/aac03a24280c45ae0569f25f4437ba71ccc95318"
         }
       ]
     },
     "public": true,
-    "created_at": "2025-05-14T14:17:46Z"
+    "created_at": "2025-05-13T21:27:42Z"
   },
   {
-    "id": "49640517419",
-    "type": "IssueCommentEvent",
+    "id": "49685197050",
+    "type": "CreateEvent",
     "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
     },
     "repo": {
-      "id": 310062276,
-      "name": "ThePrimeagen/harpoon",
-      "url": "https://api.github.com/repos/ThePrimeagen/harpoon"
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
     },
     "payload": {
-      "action": "created",
-      "issue": {
-        "url": "https://api.github.com/repos/ThePrimeagen/harpoon/issues/487",
-        "repository_url": "https://api.github.com/repos/ThePrimeagen/harpoon",
-        "labels_url": "https://api.github.com/repos/ThePrimeagen/harpoon/issues/487/labels{/name}",
-        "comments_url": "https://api.github.com/repos/ThePrimeagen/harpoon/issues/487/comments",
-        "events_url": "https://api.github.com/repos/ThePrimeagen/harpoon/issues/487/events",
-        "html_url": "https://github.com/ThePrimeagen/harpoon/issues/487",
-        "id": 2081402247,
-        "node_id": "I_kwDOEnssxM58D62H",
-        "number": 487,
-        "title": "Documentation on how to swap/create terminals",
-        "user": {
-          "login": "daviareias",
-          "id": 83703256,
-          "node_id": "MDQ6VXNlcjgzNzAzMjU2",
-          "avatar_url": "https://avatars.githubusercontent.com/u/83703256?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/daviareias",
-          "html_url": "https://github.com/daviareias",
-          "followers_url": "https://api.github.com/users/daviareias/followers",
-          "following_url": "https://api.github.com/users/daviareias/following{/other_user}",
-          "gists_url": "https://api.github.com/users/daviareias/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/daviareias/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/daviareias/subscriptions",
-          "organizations_url": "https://api.github.com/users/daviareias/orgs",
-          "repos_url": "https://api.github.com/users/daviareias/repos",
-          "events_url": "https://api.github.com/users/daviareias/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/daviareias/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "labels": [],
-        "state": "open",
-        "locked": false,
-        "assignee": null,
-        "assignees": [],
-        "milestone": null,
-        "comments": 7,
-        "created_at": "2024-01-15T07:23:11Z",
-        "updated_at": "2025-05-12T23:51:08Z",
-        "closed_at": null,
-        "author_association": "NONE",
-        "active_lock_reason": null,
-        "sub_issues_summary": {
-          "total": 0,
-          "completed": 0,
-          "percent_completed": 0
-        },
-        "body": "I've recently transitioned from Harpoon1 to Harpoon2 and have encountered some challenges in adapting to the new setup, particularly concerning terminal management. \r\n\r\nIn Harpoon1, configuring and managing terminals felt more straightforward, but in the current version, I find myself missing clear examples or documentation to achieve similar functionality.\r\n\r\nTo address this gap, I have attempted to implement my own solution for managing terminal buffers. Below is the script I'm currently using:\r\n\r\n```\r\nlocal harpoon = require(\"harpoon\")\r\n\r\nharpoon:setup({\r\n       -- settings here\r\n\tterms = { },\r\n})\r\n\r\nlocal function get_terminal_buffer_ids()\r\n    local terminal_buffer_ids = {}\r\n    local buffers = vim.api.nvim_list_bufs()\r\n    for _, buf in ipairs(buffers) do\r\n        if vim.bo[buf].buftype == \"terminal\" then\r\n            table.insert(terminal_buffer_ids, buf)\r\n        end\r\n    end\r\n    return terminal_buffer_ids\r\nend\r\n\r\n---@param index number\r\nlocal function select_term(index)\r\n    local terminal_ids = get_terminal_buffer_ids()\r\n    local n_of_terms = #terminal_ids\r\n\r\n    if index > n_of_terms then\r\n        create_terminal()\r\n        print(\"Creating terminal\", index)\r\n        -- just append the newly open terminal\r\n        harpoon:list(\u201cterms\u201d):append()\r\n    else\r\n        -- find in list\r\n        print(\"selecting terminal\", index)\r\n        harpoon:list(\u201cterms\u201d):select(index)\r\n    end\r\nend\r\n\r\nvim.keymap.set(\"n\", \"<leader>`\", function()\r\n    select_term(1)\r\nend)\r\n\r\nvim.keymap.set(\"n\", \"<leader><Tab>\", function()\r\n    select_term(2)\r\nend)\r\n\r\n\r\n```",
-        "reactions": {
-          "url": "https://api.github.com/repos/ThePrimeagen/harpoon/issues/487/reactions",
-          "total_count": 0,
-          "+1": 0,
-          "-1": 0,
-          "laugh": 0,
-          "hooray": 0,
-          "confused": 0,
-          "heart": 0,
-          "rocket": 0,
-          "eyes": 0
-        },
-        "timeline_url": "https://api.github.com/repos/ThePrimeagen/harpoon/issues/487/timeline",
-        "performed_via_github_app": null,
-        "state_reason": null
-      },
-      "comment": {
-        "url": "https://api.github.com/repos/ThePrimeagen/harpoon/issues/comments/2874592259",
-        "html_url": "https://github.com/ThePrimeagen/harpoon/issues/487#issuecomment-2874592259",
-        "issue_url": "https://api.github.com/repos/ThePrimeagen/harpoon/issues/487",
-        "id": 2874592259,
-        "node_id": "IC_kwDOEnssxM6rVswD",
-        "user": {
-          "login": "ThePrimeagen",
-          "id": 4458174,
-          "node_id": "MDQ6VXNlcjQ0NTgxNzQ=",
-          "avatar_url": "https://avatars.githubusercontent.com/u/4458174?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/ThePrimeagen",
-          "html_url": "https://github.com/ThePrimeagen",
-          "followers_url": "https://api.github.com/users/ThePrimeagen/followers",
-          "following_url": "https://api.github.com/users/ThePrimeagen/following{/other_user}",
-          "gists_url": "https://api.github.com/users/ThePrimeagen/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/ThePrimeagen/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/ThePrimeagen/subscriptions",
-          "organizations_url": "https://api.github.com/users/ThePrimeagen/orgs",
-          "repos_url": "https://api.github.com/users/ThePrimeagen/repos",
-          "events_url": "https://api.github.com/users/ThePrimeagen/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/ThePrimeagen/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "created_at": "2025-05-12T23:51:08Z",
-        "updated_at": "2025-05-12T23:51:08Z",
-        "author_association": "OWNER",
-        "body": "I'll be reviewing this shortly. I'll be finalizing this whole v2 biz",
-        "reactions": {
-          "url": "https://api.github.com/repos/ThePrimeagen/harpoon/issues/comments/2874592259/reactions",
-          "total_count": 0,
-          "+1": 0,
-          "-1": 0,
-          "laugh": 0,
-          "hooray": 0,
-          "confused": 0,
-          "heart": 0,
-          "rocket": 0,
-          "eyes": 0
-        },
-        "performed_via_github_app": null
-      }
+      "ref": "main",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": null,
+      "pusher_type": "user"
     },
     "public": true,
-    "created_at": "2025-05-12T23:51:08Z"
+    "created_at": "2025-05-13T21:26:47Z"
   },
   {
-    "id": "49561072661",
-    "type": "PushEvent",
+    "id": "49685147057",
+    "type": "CreateEvent",
     "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
     },
     "repo": {
-      "id": 776224857,
-      "name": "ThePrimeagen/dev",
-      "url": "https://api.github.com/repos/ThePrimeagen/dev"
+      "id": 983087919,
+      "name": "its-mr-gray/python-projects",
+      "url": "https://api.github.com/repos/its-mr-gray/python-projects"
     },
     "payload": {
-      "repository_id": 776224857,
-      "push_id": 24213015896,
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "main",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-05-13T21:24:58Z"
+  },
+  {
+    "id": "49684219990",
+    "type": "PushEvent",
+    "actor": {
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
+    },
+    "repo": {
+      "id": 981737196,
+      "name": "its-mr-gray/task-tracker-cli",
+      "url": "https://api.github.com/repos/its-mr-gray/task-tracker-cli"
+    },
+    "payload": {
+      "repository_id": 981737196,
+      "push_id": 24278322608,
       "size": 1,
       "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "8bf3deacce91c8289d9f2e617f10da9733185696",
-      "before": "d0209f5febc38c5a4148acac4cdd83b15ef36739",
+      "ref": "refs/heads/main",
+      "head": "e98f61000bafbdaa85e8a5162ff37f06bb36cecb",
+      "before": "60c04aa408309db70c1da59acfdd288d2d2d4193",
       "commits": [
         {
-          "sha": "8bf3deacce91c8289d9f2e617f10da9733185696",
+          "sha": "e98f61000bafbdaa85e8a5162ff37f06bb36cecb",
           "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
+            "email": "ferrell_gray3@proton.me",
+            "name": "its-mr-gray"
           },
-          "message": "automated dev commit",
+          "message": "start working with argparse to allow listing of tasks",
           "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/dev/commits/8bf3deacce91c8289d9f2e617f10da9733185696"
+          "url": "https://api.github.com/repos/its-mr-gray/task-tracker-cli/commits/e98f61000bafbdaa85e8a5162ff37f06bb36cecb"
         }
       ]
     },
     "public": true,
-    "created_at": "2025-05-09T20:55:08Z"
+    "created_at": "2025-05-13T20:54:03Z"
   },
   {
-    "id": "49560192131",
-    "type": "PushEvent",
+    "id": "49591373641",
+    "type": "CreateEvent",
     "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
     },
     "repo": {
-      "id": 776224857,
-      "name": "ThePrimeagen/dev",
-      "url": "https://api.github.com/repos/ThePrimeagen/dev"
+      "id": 981737196,
+      "name": "its-mr-gray/task-tracker-cli",
+      "url": "https://api.github.com/repos/its-mr-gray/task-tracker-cli"
     },
     "payload": {
-      "repository_id": 776224857,
-      "push_id": 24212632535,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "d0209f5febc38c5a4148acac4cdd83b15ef36739",
-      "before": "d3154f66c2b2efef8503b22c10adb370dbb71d60",
-      "commits": [
-        {
-          "sha": "d0209f5febc38c5a4148acac4cdd83b15ef36739",
-          "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
-          },
-          "message": "automated dev commit",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/dev/commits/d0209f5febc38c5a4148acac4cdd83b15ef36739"
-        }
-      ]
+      "ref": "main",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": null,
+      "pusher_type": "user"
     },
     "public": true,
-    "created_at": "2025-05-09T20:26:02Z"
+    "created_at": "2025-05-11T19:25:25Z"
   },
   {
-    "id": "49560181663",
-    "type": "PushEvent",
+    "id": "49591340000",
+    "type": "CreateEvent",
     "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
     },
     "repo": {
-      "id": 776224857,
-      "name": "ThePrimeagen/dev",
-      "url": "https://api.github.com/repos/ThePrimeagen/dev"
+      "id": 981737196,
+      "name": "its-mr-gray/task-tracker-cli",
+      "url": "https://api.github.com/repos/its-mr-gray/task-tracker-cli"
     },
     "payload": {
-      "repository_id": 776224857,
-      "push_id": 24212627118,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "d3154f66c2b2efef8503b22c10adb370dbb71d60",
-      "before": "f504247c9acdd460ac29b3050924021b270a94a7",
-      "commits": [
-        {
-          "sha": "d3154f66c2b2efef8503b22c10adb370dbb71d60",
-          "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
-          },
-          "message": "automated dev commit",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/dev/commits/d3154f66c2b2efef8503b22c10adb370dbb71d60"
-        }
-      ]
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "main",
+      "description": null,
+      "pusher_type": "user"
     },
     "public": true,
-    "created_at": "2025-05-09T20:25:38Z"
+    "created_at": "2025-05-11T19:22:18Z"
   },
   {
-    "id": "49560179271",
-    "type": "PushEvent",
+    "id": "49591328089",
+    "type": "WatchEvent",
     "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
     },
     "repo": {
-      "id": 577135082,
-      "name": "ThePrimeagen/init.lua",
-      "url": "https://api.github.com/repos/ThePrimeagen/init.lua"
+      "id": 501412894,
+      "name": "codecrafters-io/build-your-own-redis",
+      "url": "https://api.github.com/repos/codecrafters-io/build-your-own-redis"
     },
     "payload": {
-      "repository_id": 577135082,
-      "push_id": 24212625796,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "158c9ccd652e5921cc6940205da6ed20776e7cc7",
-      "before": "d5589926e6fa23fe5674870d90b2588923548d08",
-      "commits": [
-        {
-          "sha": "158c9ccd652e5921cc6940205da6ed20776e7cc7",
-          "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
-          },
-          "message": "automated dev commit",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/init.lua/commits/158c9ccd652e5921cc6940205da6ed20776e7cc7"
-        }
-      ]
+      "action": "started"
     },
     "public": true,
-    "created_at": "2025-05-09T20:25:33Z"
+    "created_at": "2025-05-11T19:21:18Z",
+    "org": {
+      "id": 58904235,
+      "login": "codecrafters-io",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/codecrafters-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58904235?"
+    }
   },
   {
-    "id": "49558723702",
-    "type": "IssueCommentEvent",
+    "id": "49477721588",
+    "type": "WatchEvent",
     "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
     },
     "repo": {
-      "id": 880883259,
-      "name": "ThePrimeagen/tmux-sessionizer",
-      "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer"
+      "id": 88011908,
+      "name": "practical-tutorials/project-based-learning",
+      "url": "https://api.github.com/repos/practical-tutorials/project-based-learning"
     },
     "payload": {
-      "action": "created",
-      "issue": {
-        "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/10",
-        "repository_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer",
-        "labels_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/10/labels{/name}",
-        "comments_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/10/comments",
-        "events_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/10/events",
-        "html_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/10",
-        "id": 2655842322,
-        "node_id": "PR_kwDONIE2O86BzKFW",
-        "number": 10,
-        "title": "Fix hydration when tmux is not running",
-        "user": {
-          "login": "gonstoll",
-          "id": 25900010,
-          "node_id": "MDQ6VXNlcjI1OTAwMDEw",
-          "avatar_url": "https://avatars.githubusercontent.com/u/25900010?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/gonstoll",
-          "html_url": "https://github.com/gonstoll",
-          "followers_url": "https://api.github.com/users/gonstoll/followers",
-          "following_url": "https://api.github.com/users/gonstoll/following{/other_user}",
-          "gists_url": "https://api.github.com/users/gonstoll/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/gonstoll/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/gonstoll/subscriptions",
-          "organizations_url": "https://api.github.com/users/gonstoll/orgs",
-          "repos_url": "https://api.github.com/users/gonstoll/repos",
-          "events_url": "https://api.github.com/users/gonstoll/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/gonstoll/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "labels": [],
-        "state": "closed",
-        "locked": false,
-        "assignee": null,
-        "assignees": [],
-        "milestone": null,
-        "comments": 5,
-        "created_at": "2024-11-13T15:15:40Z",
-        "updated_at": "2025-05-09T19:32:40Z",
-        "closed_at": "2025-05-09T19:32:26Z",
-        "author_association": "CONTRIBUTOR",
-        "active_lock_reason": null,
-        "draft": false,
-        "pull_request": {
-          "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/10",
-          "html_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/10",
-          "diff_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/10.diff",
-          "patch_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/10.patch",
-          "merged_at": "2025-05-09T19:32:25Z"
-        },
-        "body": "When tmux is off, the script [correctly creates a new session](https://github.com/ThePrimeagen/tmux-sessionizer/blob/master/tmux-sessionizer#L37-L41) but hydration fails. Subsequent navigations with tmux-sessionizer correctly executes hydration, which indicates the first condition has a bug.\r\n\r\n### Reproduction steps:\r\n1. Detach from `tmux`\r\n2. Run `tmux kill-server`\r\n3. Run `tmux-sessionizer` and select a directory with a `.tmux-sessionizer` in it\r\n\r\n### Current behavior\r\nA new tmux session is created successfully, but hydration fails. My guess is that hydration happens too soon and it's sent to the previous running environment outside of tmux.\r\n\r\n_**Note**: I'm unsure if this is something wrong on my setup. [Here's my tmux config](https://github.com/gonstoll/dotfiles/blob/master/.config/tmux/tmux.conf) just in case. Apologies in advance if this is something wrong on my end._\r\n\r\n### Expected behavior\r\nA new tmux session is created successfully, and hydration is executed successfully.\r\n\r\n### Proposed solution\r\nBased on my theory aforementioned: start a detached session, send keys to it and then attach to it. This ensures attaching to the session happens after the session.",
-        "reactions": {
-          "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/10/reactions",
-          "total_count": 1,
-          "+1": 1,
-          "-1": 0,
-          "laugh": 0,
-          "hooray": 0,
-          "confused": 0,
-          "heart": 0,
-          "rocket": 0,
-          "eyes": 0
-        },
-        "timeline_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/10/timeline",
-        "performed_via_github_app": null,
-        "state_reason": null
-      },
-      "comment": {
-        "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/comments/2867696468",
-        "html_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/10#issuecomment-2867696468",
-        "issue_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/10",
-        "id": 2867696468,
-        "node_id": "IC_kwDONIE2O86q7ZNU",
-        "user": {
-          "login": "ThePrimeagen",
-          "id": 4458174,
-          "node_id": "MDQ6VXNlcjQ0NTgxNzQ=",
-          "avatar_url": "https://avatars.githubusercontent.com/u/4458174?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/ThePrimeagen",
-          "html_url": "https://github.com/ThePrimeagen",
-          "followers_url": "https://api.github.com/users/ThePrimeagen/followers",
-          "following_url": "https://api.github.com/users/ThePrimeagen/following{/other_user}",
-          "gists_url": "https://api.github.com/users/ThePrimeagen/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/ThePrimeagen/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/ThePrimeagen/subscriptions",
-          "organizations_url": "https://api.github.com/users/ThePrimeagen/orgs",
-          "repos_url": "https://api.github.com/users/ThePrimeagen/repos",
-          "events_url": "https://api.github.com/users/ThePrimeagen/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/ThePrimeagen/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "created_at": "2025-05-09T19:32:39Z",
-        "updated_at": "2025-05-09T19:32:39Z",
-        "author_association": "OWNER",
-        "body": "i **think** that is right.  :)  IF IT BREAKS, ITS YOUR FAULT AND I HATE YOU",
-        "reactions": {
-          "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/comments/2867696468/reactions",
-          "total_count": 0,
-          "+1": 0,
-          "-1": 0,
-          "laugh": 0,
-          "hooray": 0,
-          "confused": 0,
-          "heart": 0,
-          "rocket": 0,
-          "eyes": 0
-        },
-        "performed_via_github_app": null
-      }
+      "action": "started"
     },
     "public": true,
-    "created_at": "2025-05-09T19:32:40Z"
+    "created_at": "2025-05-07T22:34:28Z",
+    "org": {
+      "id": 89421154,
+      "login": "practical-tutorials",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/practical-tutorials",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89421154?"
+    }
   },
   {
-    "id": "49558717053",
-    "type": "PushEvent",
+    "id": "49477720449",
+    "type": "WatchEvent",
     "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
+      "id": 112123741,
+      "login": "its-mr-gray",
+      "display_login": "its-mr-gray",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
+      "url": "https://api.github.com/users/its-mr-gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112123741?"
     },
     "repo": {
-      "id": 880883259,
-      "name": "ThePrimeagen/tmux-sessionizer",
-      "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer"
+      "id": 132750724,
+      "name": "codecrafters-io/build-your-own-x",
+      "url": "https://api.github.com/repos/codecrafters-io/build-your-own-x"
     },
     "payload": {
-      "repository_id": 880883259,
-      "push_id": 24211878763,
-      "size": 2,
-      "distinct_size": 2,
-      "ref": "refs/heads/master",
-      "head": "2d399e84387f2c697678ec43e8396be1f9b4bda8",
-      "before": "6ebd16e2e30a8c0ebd77f0c2ce18cb46db8397fa",
-      "commits": [
-        {
-          "sha": "4923832d0049fa4244df64b5c35670b30795c3c5",
-          "author": {
-            "email": "stollgonzalo@gmail.com",
-            "name": "Gonzalo Stoll"
-          },
-          "message": "Fix hydration when tmux is not running",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/commits/4923832d0049fa4244df64b5c35670b30795c3c5"
-        },
-        {
-          "sha": "2d399e84387f2c697678ec43e8396be1f9b4bda8",
-          "author": {
-            "email": "the.primeagen@gmail.com",
-            "name": "ThePrimeagen"
-          },
-          "message": "Merge pull request #10 from gonstoll/master\n\nFix hydration when tmux is not running",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/commits/2d399e84387f2c697678ec43e8396be1f9b4bda8"
-        }
-      ]
+      "action": "started"
     },
     "public": true,
-    "created_at": "2025-05-09T19:32:27Z"
-  },
-  {
-    "id": "49558716541",
-    "type": "PullRequestEvent",
-    "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
+    "created_at": "2025-05-07T22:34:25Z",
+    "org": {
+      "id": 58904235,
+      "login": "codecrafters-io",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
-    },
-    "repo": {
-      "id": 880883259,
-      "name": "ThePrimeagen/tmux-sessionizer",
-      "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer"
-    },
-    "payload": {
-      "action": "closed",
-      "number": 10,
-      "pull_request": {
-        "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/10",
-        "id": 2177671510,
-        "node_id": "PR_kwDONIE2O86BzKFW",
-        "html_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/10",
-        "diff_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/10.diff",
-        "patch_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/10.patch",
-        "issue_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/10",
-        "number": 10,
-        "state": "closed",
-        "locked": false,
-        "title": "Fix hydration when tmux is not running",
-        "user": {
-          "login": "gonstoll",
-          "id": 25900010,
-          "node_id": "MDQ6VXNlcjI1OTAwMDEw",
-          "avatar_url": "https://avatars.githubusercontent.com/u/25900010?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/gonstoll",
-          "html_url": "https://github.com/gonstoll",
-          "followers_url": "https://api.github.com/users/gonstoll/followers",
-          "following_url": "https://api.github.com/users/gonstoll/following{/other_user}",
-          "gists_url": "https://api.github.com/users/gonstoll/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/gonstoll/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/gonstoll/subscriptions",
-          "organizations_url": "https://api.github.com/users/gonstoll/orgs",
-          "repos_url": "https://api.github.com/users/gonstoll/repos",
-          "events_url": "https://api.github.com/users/gonstoll/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/gonstoll/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "body": "When tmux is off, the script [correctly creates a new session](https://github.com/ThePrimeagen/tmux-sessionizer/blob/master/tmux-sessionizer#L37-L41) but hydration fails. Subsequent navigations with tmux-sessionizer correctly executes hydration, which indicates the first condition has a bug.\r\n\r\n### Reproduction steps:\r\n1. Detach from `tmux`\r\n2. Run `tmux kill-server`\r\n3. Run `tmux-sessionizer` and select a directory with a `.tmux-sessionizer` in it\r\n\r\n### Current behavior\r\nA new tmux session is created successfully, but hydration fails. My guess is that hydration happens too soon and it's sent to the previous running environment outside of tmux.\r\n\r\n_**Note**: I'm unsure if this is something wrong on my setup. [Here's my tmux config](https://github.com/gonstoll/dotfiles/blob/master/.config/tmux/tmux.conf) just in case. Apologies in advance if this is something wrong on my end._\r\n\r\n### Expected behavior\r\nA new tmux session is created successfully, and hydration is executed successfully.\r\n\r\n### Proposed solution\r\nBased on my theory aforementioned: start a detached session, send keys to it and then attach to it. This ensures attaching to the session happens after the session.",
-        "created_at": "2024-11-13T15:15:40Z",
-        "updated_at": "2025-05-09T19:32:26Z",
-        "closed_at": "2025-05-09T19:32:26Z",
-        "merged_at": "2025-05-09T19:32:25Z",
-        "merge_commit_sha": "2d399e84387f2c697678ec43e8396be1f9b4bda8",
-        "assignee": null,
-        "assignees": [],
-        "requested_reviewers": [],
-        "requested_teams": [],
-        "labels": [],
-        "milestone": null,
-        "draft": false,
-        "commits_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/10/commits",
-        "review_comments_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/10/comments",
-        "review_comment_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/comments{/number}",
-        "comments_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/10/comments",
-        "statuses_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/statuses/4923832d0049fa4244df64b5c35670b30795c3c5",
-        "head": {
-          "label": "gonstoll:master",
-          "ref": "master",
-          "sha": "4923832d0049fa4244df64b5c35670b30795c3c5",
-          "user": {
-            "login": "gonstoll",
-            "id": 25900010,
-            "node_id": "MDQ6VXNlcjI1OTAwMDEw",
-            "avatar_url": "https://avatars.githubusercontent.com/u/25900010?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/gonstoll",
-            "html_url": "https://github.com/gonstoll",
-            "followers_url": "https://api.github.com/users/gonstoll/followers",
-            "following_url": "https://api.github.com/users/gonstoll/following{/other_user}",
-            "gists_url": "https://api.github.com/users/gonstoll/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/gonstoll/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/gonstoll/subscriptions",
-            "organizations_url": "https://api.github.com/users/gonstoll/orgs",
-            "repos_url": "https://api.github.com/users/gonstoll/repos",
-            "events_url": "https://api.github.com/users/gonstoll/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/gonstoll/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "repo": {
-            "id": 887945686,
-            "node_id": "R_kgDONOz51g",
-            "name": "tmux-sessionizer",
-            "full_name": "gonstoll/tmux-sessionizer",
-            "private": false,
-            "owner": {
-              "login": "gonstoll",
-              "id": 25900010,
-              "node_id": "MDQ6VXNlcjI1OTAwMDEw",
-              "avatar_url": "https://avatars.githubusercontent.com/u/25900010?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/gonstoll",
-              "html_url": "https://github.com/gonstoll",
-              "followers_url": "https://api.github.com/users/gonstoll/followers",
-              "following_url": "https://api.github.com/users/gonstoll/following{/other_user}",
-              "gists_url": "https://api.github.com/users/gonstoll/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/gonstoll/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/gonstoll/subscriptions",
-              "organizations_url": "https://api.github.com/users/gonstoll/orgs",
-              "repos_url": "https://api.github.com/users/gonstoll/repos",
-              "events_url": "https://api.github.com/users/gonstoll/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/gonstoll/received_events",
-              "type": "User",
-              "user_view_type": "public",
-              "site_admin": false
-            },
-            "html_url": "https://github.com/gonstoll/tmux-sessionizer",
-            "description": null,
-            "fork": true,
-            "url": "https://api.github.com/repos/gonstoll/tmux-sessionizer",
-            "forks_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/forks",
-            "keys_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/keys{/key_id}",
-            "collaborators_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/collaborators{/collaborator}",
-            "teams_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/teams",
-            "hooks_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/hooks",
-            "issue_events_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/issues/events{/number}",
-            "events_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/events",
-            "assignees_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/assignees{/user}",
-            "branches_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/branches{/branch}",
-            "tags_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/tags",
-            "blobs_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/git/blobs{/sha}",
-            "git_tags_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/git/tags{/sha}",
-            "git_refs_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/git/refs{/sha}",
-            "trees_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/git/trees{/sha}",
-            "statuses_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/statuses/{sha}",
-            "languages_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/languages",
-            "stargazers_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/stargazers",
-            "contributors_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/contributors",
-            "subscribers_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/subscribers",
-            "subscription_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/subscription",
-            "commits_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/commits{/sha}",
-            "git_commits_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/git/commits{/sha}",
-            "comments_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/comments{/number}",
-            "issue_comment_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/issues/comments{/number}",
-            "contents_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/contents/{+path}",
-            "compare_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/compare/{base}...{head}",
-            "merges_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/merges",
-            "archive_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/{archive_format}{/ref}",
-            "downloads_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/downloads",
-            "issues_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/issues{/number}",
-            "pulls_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/pulls{/number}",
-            "milestones_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/milestones{/number}",
-            "notifications_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/notifications{?since,all,participating}",
-            "labels_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/labels{/name}",
-            "releases_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/releases{/id}",
-            "deployments_url": "https://api.github.com/repos/gonstoll/tmux-sessionizer/deployments",
-            "created_at": "2024-11-13T14:53:15Z",
-            "updated_at": "2024-11-13T15:11:14Z",
-            "pushed_at": "2024-11-13T15:11:10Z",
-            "git_url": "git://github.com/gonstoll/tmux-sessionizer.git",
-            "ssh_url": "git@github.com:gonstoll/tmux-sessionizer.git",
-            "clone_url": "https://github.com/gonstoll/tmux-sessionizer.git",
-            "svn_url": "https://github.com/gonstoll/tmux-sessionizer",
-            "homepage": null,
-            "size": 1,
-            "stargazers_count": 0,
-            "watchers_count": 0,
-            "language": "Shell",
-            "has_issues": false,
-            "has_projects": true,
-            "has_downloads": true,
-            "has_wiki": true,
-            "has_pages": false,
-            "has_discussions": false,
-            "forks_count": 0,
-            "mirror_url": null,
-            "archived": false,
-            "disabled": false,
-            "open_issues_count": 0,
-            "license": null,
-            "allow_forking": true,
-            "is_template": false,
-            "web_commit_signoff_required": false,
-            "topics": [],
-            "visibility": "public",
-            "forks": 0,
-            "open_issues": 0,
-            "watchers": 0,
-            "default_branch": "master"
-          }
-        },
-        "base": {
-          "label": "ThePrimeagen:master",
-          "ref": "master",
-          "sha": "6ebd16e2e30a8c0ebd77f0c2ce18cb46db8397fa",
-          "user": {
-            "login": "ThePrimeagen",
-            "id": 4458174,
-            "node_id": "MDQ6VXNlcjQ0NTgxNzQ=",
-            "avatar_url": "https://avatars.githubusercontent.com/u/4458174?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/ThePrimeagen",
-            "html_url": "https://github.com/ThePrimeagen",
-            "followers_url": "https://api.github.com/users/ThePrimeagen/followers",
-            "following_url": "https://api.github.com/users/ThePrimeagen/following{/other_user}",
-            "gists_url": "https://api.github.com/users/ThePrimeagen/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/ThePrimeagen/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/ThePrimeagen/subscriptions",
-            "organizations_url": "https://api.github.com/users/ThePrimeagen/orgs",
-            "repos_url": "https://api.github.com/users/ThePrimeagen/repos",
-            "events_url": "https://api.github.com/users/ThePrimeagen/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/ThePrimeagen/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "repo": {
-            "id": 880883259,
-            "node_id": "R_kgDONIE2Ow",
-            "name": "tmux-sessionizer",
-            "full_name": "ThePrimeagen/tmux-sessionizer",
-            "private": false,
-            "owner": {
-              "login": "ThePrimeagen",
-              "id": 4458174,
-              "node_id": "MDQ6VXNlcjQ0NTgxNzQ=",
-              "avatar_url": "https://avatars.githubusercontent.com/u/4458174?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/ThePrimeagen",
-              "html_url": "https://github.com/ThePrimeagen",
-              "followers_url": "https://api.github.com/users/ThePrimeagen/followers",
-              "following_url": "https://api.github.com/users/ThePrimeagen/following{/other_user}",
-              "gists_url": "https://api.github.com/users/ThePrimeagen/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/ThePrimeagen/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/ThePrimeagen/subscriptions",
-              "organizations_url": "https://api.github.com/users/ThePrimeagen/orgs",
-              "repos_url": "https://api.github.com/users/ThePrimeagen/repos",
-              "events_url": "https://api.github.com/users/ThePrimeagen/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/ThePrimeagen/received_events",
-              "type": "User",
-              "user_view_type": "public",
-              "site_admin": false
-            },
-            "html_url": "https://github.com/ThePrimeagen/tmux-sessionizer",
-            "description": null,
-            "fork": false,
-            "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer",
-            "forks_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/forks",
-            "keys_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/keys{/key_id}",
-            "collaborators_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/collaborators{/collaborator}",
-            "teams_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/teams",
-            "hooks_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/hooks",
-            "issue_events_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/events{/number}",
-            "events_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/events",
-            "assignees_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/assignees{/user}",
-            "branches_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/branches{/branch}",
-            "tags_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/tags",
-            "blobs_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/git/blobs{/sha}",
-            "git_tags_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/git/tags{/sha}",
-            "git_refs_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/git/refs{/sha}",
-            "trees_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/git/trees{/sha}",
-            "statuses_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/statuses/{sha}",
-            "languages_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/languages",
-            "stargazers_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/stargazers",
-            "contributors_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/contributors",
-            "subscribers_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/subscribers",
-            "subscription_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/subscription",
-            "commits_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/commits{/sha}",
-            "git_commits_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/git/commits{/sha}",
-            "comments_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/comments{/number}",
-            "issue_comment_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/comments{/number}",
-            "contents_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/contents/{+path}",
-            "compare_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/compare/{base}...{head}",
-            "merges_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/merges",
-            "archive_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/{archive_format}{/ref}",
-            "downloads_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/downloads",
-            "issues_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues{/number}",
-            "pulls_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls{/number}",
-            "milestones_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/milestones{/number}",
-            "notifications_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/notifications{?since,all,participating}",
-            "labels_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/labels{/name}",
-            "releases_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/releases{/id}",
-            "deployments_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/deployments",
-            "created_at": "2024-10-30T14:35:39Z",
-            "updated_at": "2025-05-08T17:02:24Z",
-            "pushed_at": "2024-10-30T14:53:32Z",
-            "git_url": "git://github.com/ThePrimeagen/tmux-sessionizer.git",
-            "ssh_url": "git@github.com:ThePrimeagen/tmux-sessionizer.git",
-            "clone_url": "https://github.com/ThePrimeagen/tmux-sessionizer.git",
-            "svn_url": "https://github.com/ThePrimeagen/tmux-sessionizer",
-            "homepage": null,
-            "size": 1,
-            "stargazers_count": 135,
-            "watchers_count": 135,
-            "language": "Shell",
-            "has_issues": true,
-            "has_projects": true,
-            "has_downloads": true,
-            "has_wiki": true,
-            "has_pages": false,
-            "has_discussions": false,
-            "forks_count": 40,
-            "mirror_url": null,
-            "archived": false,
-            "disabled": false,
-            "open_issues_count": 12,
-            "license": null,
-            "allow_forking": true,
-            "is_template": false,
-            "web_commit_signoff_required": false,
-            "topics": [],
-            "visibility": "public",
-            "forks": 40,
-            "open_issues": 12,
-            "watchers": 135,
-            "default_branch": "master"
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/10"
-          },
-          "html": {
-            "href": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/10"
-          },
-          "issue": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/10"
-          },
-          "comments": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/10/comments"
-          },
-          "review_comments": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/10/comments"
-          },
-          "review_comment": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/comments{/number}"
-          },
-          "commits": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/10/commits"
-          },
-          "statuses": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/statuses/4923832d0049fa4244df64b5c35670b30795c3c5"
-          }
-        },
-        "author_association": "NONE",
-        "auto_merge": null,
-        "active_lock_reason": null,
-        "merged": true,
-        "mergeable": null,
-        "rebaseable": null,
-        "mergeable_state": "unknown",
-        "merged_by": {
-          "login": "ThePrimeagen",
-          "id": 4458174,
-          "node_id": "MDQ6VXNlcjQ0NTgxNzQ=",
-          "avatar_url": "https://avatars.githubusercontent.com/u/4458174?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/ThePrimeagen",
-          "html_url": "https://github.com/ThePrimeagen",
-          "followers_url": "https://api.github.com/users/ThePrimeagen/followers",
-          "following_url": "https://api.github.com/users/ThePrimeagen/following{/other_user}",
-          "gists_url": "https://api.github.com/users/ThePrimeagen/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/ThePrimeagen/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/ThePrimeagen/subscriptions",
-          "organizations_url": "https://api.github.com/users/ThePrimeagen/orgs",
-          "repos_url": "https://api.github.com/users/ThePrimeagen/repos",
-          "events_url": "https://api.github.com/users/ThePrimeagen/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/ThePrimeagen/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "comments": 4,
-        "review_comments": 0,
-        "maintainer_can_modify": false,
-        "commits": 1,
-        "additions": 1,
-        "deletions": 2,
-        "changed_files": 1
-      }
-    },
-    "public": true,
-    "created_at": "2025-05-09T19:32:26Z"
-  },
-  {
-    "id": "49558701168",
-    "type": "PullRequestEvent",
-    "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
-    },
-    "repo": {
-      "id": 880883259,
-      "name": "ThePrimeagen/tmux-sessionizer",
-      "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer"
-    },
-    "payload": {
-      "action": "closed",
-      "number": 15,
-      "pull_request": {
-        "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/15",
-        "id": 2427954711,
-        "node_id": "PR_kwDONIE2O86Qt6YX",
-        "html_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/15",
-        "diff_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/15.diff",
-        "patch_url": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/15.patch",
-        "issue_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/15",
-        "number": 15,
-        "state": "closed",
-        "locked": false,
-        "title": "simplify the code",
-        "user": {
-          "login": "tebuevd",
-          "id": 3241533,
-          "node_id": "MDQ6VXNlcjMyNDE1MzM=",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3241533?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/tebuevd",
-          "html_url": "https://github.com/tebuevd",
-          "followers_url": "https://api.github.com/users/tebuevd/followers",
-          "following_url": "https://api.github.com/users/tebuevd/following{/other_user}",
-          "gists_url": "https://api.github.com/users/tebuevd/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/tebuevd/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/tebuevd/subscriptions",
-          "organizations_url": "https://api.github.com/users/tebuevd/orgs",
-          "repos_url": "https://api.github.com/users/tebuevd/repos",
-          "events_url": "https://api.github.com/users/tebuevd/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/tebuevd/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "body": "see title",
-        "created_at": "2025-03-31T03:10:21Z",
-        "updated_at": "2025-05-09T19:31:56Z",
-        "closed_at": "2025-05-09T19:31:56Z",
-        "merged_at": null,
-        "merge_commit_sha": "e38ce39597c75d95b2d1e50fb1bd007840ae1ea7",
-        "assignee": null,
-        "assignees": [],
-        "requested_reviewers": [],
-        "requested_teams": [],
-        "labels": [],
-        "milestone": null,
-        "draft": false,
-        "commits_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/15/commits",
-        "review_comments_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/15/comments",
-        "review_comment_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/comments{/number}",
-        "comments_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/15/comments",
-        "statuses_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/statuses/6eaa41e49eb9d5915972ed5abf1a8b2e41651402",
-        "head": {
-          "label": "tebuevd:simplify",
-          "ref": "simplify",
-          "sha": "6eaa41e49eb9d5915972ed5abf1a8b2e41651402",
-          "user": {
-            "login": "tebuevd",
-            "id": 3241533,
-            "node_id": "MDQ6VXNlcjMyNDE1MzM=",
-            "avatar_url": "https://avatars.githubusercontent.com/u/3241533?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/tebuevd",
-            "html_url": "https://github.com/tebuevd",
-            "followers_url": "https://api.github.com/users/tebuevd/followers",
-            "following_url": "https://api.github.com/users/tebuevd/following{/other_user}",
-            "gists_url": "https://api.github.com/users/tebuevd/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/tebuevd/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/tebuevd/subscriptions",
-            "organizations_url": "https://api.github.com/users/tebuevd/orgs",
-            "repos_url": "https://api.github.com/users/tebuevd/repos",
-            "events_url": "https://api.github.com/users/tebuevd/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/tebuevd/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "repo": {
-            "id": 957734534,
-            "node_id": "R_kgDOORXehg",
-            "name": "tmux-sessionizer",
-            "full_name": "tebuevd/tmux-sessionizer",
-            "private": false,
-            "owner": {
-              "login": "tebuevd",
-              "id": 3241533,
-              "node_id": "MDQ6VXNlcjMyNDE1MzM=",
-              "avatar_url": "https://avatars.githubusercontent.com/u/3241533?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/tebuevd",
-              "html_url": "https://github.com/tebuevd",
-              "followers_url": "https://api.github.com/users/tebuevd/followers",
-              "following_url": "https://api.github.com/users/tebuevd/following{/other_user}",
-              "gists_url": "https://api.github.com/users/tebuevd/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/tebuevd/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/tebuevd/subscriptions",
-              "organizations_url": "https://api.github.com/users/tebuevd/orgs",
-              "repos_url": "https://api.github.com/users/tebuevd/repos",
-              "events_url": "https://api.github.com/users/tebuevd/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/tebuevd/received_events",
-              "type": "User",
-              "user_view_type": "public",
-              "site_admin": false
-            },
-            "html_url": "https://github.com/tebuevd/tmux-sessionizer",
-            "description": null,
-            "fork": true,
-            "url": "https://api.github.com/repos/tebuevd/tmux-sessionizer",
-            "forks_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/forks",
-            "keys_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/keys{/key_id}",
-            "collaborators_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/collaborators{/collaborator}",
-            "teams_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/teams",
-            "hooks_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/hooks",
-            "issue_events_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/issues/events{/number}",
-            "events_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/events",
-            "assignees_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/assignees{/user}",
-            "branches_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/branches{/branch}",
-            "tags_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/tags",
-            "blobs_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/git/blobs{/sha}",
-            "git_tags_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/git/tags{/sha}",
-            "git_refs_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/git/refs{/sha}",
-            "trees_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/git/trees{/sha}",
-            "statuses_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/statuses/{sha}",
-            "languages_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/languages",
-            "stargazers_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/stargazers",
-            "contributors_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/contributors",
-            "subscribers_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/subscribers",
-            "subscription_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/subscription",
-            "commits_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/commits{/sha}",
-            "git_commits_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/git/commits{/sha}",
-            "comments_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/comments{/number}",
-            "issue_comment_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/issues/comments{/number}",
-            "contents_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/contents/{+path}",
-            "compare_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/compare/{base}...{head}",
-            "merges_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/merges",
-            "archive_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/{archive_format}{/ref}",
-            "downloads_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/downloads",
-            "issues_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/issues{/number}",
-            "pulls_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/pulls{/number}",
-            "milestones_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/milestones{/number}",
-            "notifications_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/notifications{?since,all,participating}",
-            "labels_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/labels{/name}",
-            "releases_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/releases{/id}",
-            "deployments_url": "https://api.github.com/repos/tebuevd/tmux-sessionizer/deployments",
-            "created_at": "2025-03-31T03:09:15Z",
-            "updated_at": "2025-03-31T03:09:15Z",
-            "pushed_at": "2025-03-31T03:09:52Z",
-            "git_url": "git://github.com/tebuevd/tmux-sessionizer.git",
-            "ssh_url": "git@github.com:tebuevd/tmux-sessionizer.git",
-            "clone_url": "https://github.com/tebuevd/tmux-sessionizer.git",
-            "svn_url": "https://github.com/tebuevd/tmux-sessionizer",
-            "homepage": null,
-            "size": 1,
-            "stargazers_count": 0,
-            "watchers_count": 0,
-            "language": null,
-            "has_issues": false,
-            "has_projects": true,
-            "has_downloads": true,
-            "has_wiki": true,
-            "has_pages": false,
-            "has_discussions": false,
-            "forks_count": 0,
-            "mirror_url": null,
-            "archived": false,
-            "disabled": false,
-            "open_issues_count": 0,
-            "license": null,
-            "allow_forking": true,
-            "is_template": false,
-            "web_commit_signoff_required": false,
-            "topics": [],
-            "visibility": "public",
-            "forks": 0,
-            "open_issues": 0,
-            "watchers": 0,
-            "default_branch": "master"
-          }
-        },
-        "base": {
-          "label": "ThePrimeagen:master",
-          "ref": "master",
-          "sha": "6ebd16e2e30a8c0ebd77f0c2ce18cb46db8397fa",
-          "user": {
-            "login": "ThePrimeagen",
-            "id": 4458174,
-            "node_id": "MDQ6VXNlcjQ0NTgxNzQ=",
-            "avatar_url": "https://avatars.githubusercontent.com/u/4458174?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/ThePrimeagen",
-            "html_url": "https://github.com/ThePrimeagen",
-            "followers_url": "https://api.github.com/users/ThePrimeagen/followers",
-            "following_url": "https://api.github.com/users/ThePrimeagen/following{/other_user}",
-            "gists_url": "https://api.github.com/users/ThePrimeagen/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/ThePrimeagen/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/ThePrimeagen/subscriptions",
-            "organizations_url": "https://api.github.com/users/ThePrimeagen/orgs",
-            "repos_url": "https://api.github.com/users/ThePrimeagen/repos",
-            "events_url": "https://api.github.com/users/ThePrimeagen/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/ThePrimeagen/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "repo": {
-            "id": 880883259,
-            "node_id": "R_kgDONIE2Ow",
-            "name": "tmux-sessionizer",
-            "full_name": "ThePrimeagen/tmux-sessionizer",
-            "private": false,
-            "owner": {
-              "login": "ThePrimeagen",
-              "id": 4458174,
-              "node_id": "MDQ6VXNlcjQ0NTgxNzQ=",
-              "avatar_url": "https://avatars.githubusercontent.com/u/4458174?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/ThePrimeagen",
-              "html_url": "https://github.com/ThePrimeagen",
-              "followers_url": "https://api.github.com/users/ThePrimeagen/followers",
-              "following_url": "https://api.github.com/users/ThePrimeagen/following{/other_user}",
-              "gists_url": "https://api.github.com/users/ThePrimeagen/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/ThePrimeagen/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/ThePrimeagen/subscriptions",
-              "organizations_url": "https://api.github.com/users/ThePrimeagen/orgs",
-              "repos_url": "https://api.github.com/users/ThePrimeagen/repos",
-              "events_url": "https://api.github.com/users/ThePrimeagen/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/ThePrimeagen/received_events",
-              "type": "User",
-              "user_view_type": "public",
-              "site_admin": false
-            },
-            "html_url": "https://github.com/ThePrimeagen/tmux-sessionizer",
-            "description": null,
-            "fork": false,
-            "url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer",
-            "forks_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/forks",
-            "keys_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/keys{/key_id}",
-            "collaborators_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/collaborators{/collaborator}",
-            "teams_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/teams",
-            "hooks_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/hooks",
-            "issue_events_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/events{/number}",
-            "events_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/events",
-            "assignees_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/assignees{/user}",
-            "branches_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/branches{/branch}",
-            "tags_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/tags",
-            "blobs_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/git/blobs{/sha}",
-            "git_tags_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/git/tags{/sha}",
-            "git_refs_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/git/refs{/sha}",
-            "trees_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/git/trees{/sha}",
-            "statuses_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/statuses/{sha}",
-            "languages_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/languages",
-            "stargazers_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/stargazers",
-            "contributors_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/contributors",
-            "subscribers_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/subscribers",
-            "subscription_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/subscription",
-            "commits_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/commits{/sha}",
-            "git_commits_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/git/commits{/sha}",
-            "comments_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/comments{/number}",
-            "issue_comment_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/comments{/number}",
-            "contents_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/contents/{+path}",
-            "compare_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/compare/{base}...{head}",
-            "merges_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/merges",
-            "archive_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/{archive_format}{/ref}",
-            "downloads_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/downloads",
-            "issues_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues{/number}",
-            "pulls_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls{/number}",
-            "milestones_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/milestones{/number}",
-            "notifications_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/notifications{?since,all,participating}",
-            "labels_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/labels{/name}",
-            "releases_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/releases{/id}",
-            "deployments_url": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/deployments",
-            "created_at": "2024-10-30T14:35:39Z",
-            "updated_at": "2025-05-08T17:02:24Z",
-            "pushed_at": "2024-10-30T14:53:32Z",
-            "git_url": "git://github.com/ThePrimeagen/tmux-sessionizer.git",
-            "ssh_url": "git@github.com:ThePrimeagen/tmux-sessionizer.git",
-            "clone_url": "https://github.com/ThePrimeagen/tmux-sessionizer.git",
-            "svn_url": "https://github.com/ThePrimeagen/tmux-sessionizer",
-            "homepage": null,
-            "size": 1,
-            "stargazers_count": 135,
-            "watchers_count": 135,
-            "language": "Shell",
-            "has_issues": true,
-            "has_projects": true,
-            "has_downloads": true,
-            "has_wiki": true,
-            "has_pages": false,
-            "has_discussions": false,
-            "forks_count": 40,
-            "mirror_url": null,
-            "archived": false,
-            "disabled": false,
-            "open_issues_count": 13,
-            "license": null,
-            "allow_forking": true,
-            "is_template": false,
-            "web_commit_signoff_required": false,
-            "topics": [],
-            "visibility": "public",
-            "forks": 40,
-            "open_issues": 13,
-            "watchers": 135,
-            "default_branch": "master"
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/15"
-          },
-          "html": {
-            "href": "https://github.com/ThePrimeagen/tmux-sessionizer/pull/15"
-          },
-          "issue": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/15"
-          },
-          "comments": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/issues/15/comments"
-          },
-          "review_comments": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/15/comments"
-          },
-          "review_comment": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/comments{/number}"
-          },
-          "commits": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/pulls/15/commits"
-          },
-          "statuses": {
-            "href": "https://api.github.com/repos/ThePrimeagen/tmux-sessionizer/statuses/6eaa41e49eb9d5915972ed5abf1a8b2e41651402"
-          }
-        },
-        "author_association": "NONE",
-        "auto_merge": null,
-        "active_lock_reason": null,
-        "merged": false,
-        "mergeable": true,
-        "rebaseable": false,
-        "mergeable_state": "clean",
-        "merged_by": null,
-        "comments": 0,
-        "review_comments": 0,
-        "maintainer_can_modify": false,
-        "commits": 1,
-        "additions": 1,
-        "deletions": 47,
-        "changed_files": 1
-      }
-    },
-    "public": true,
-    "created_at": "2025-05-09T19:31:57Z"
-  },
-  {
-    "id": "49556184539",
-    "type": "PushEvent",
-    "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
-    },
-    "repo": {
-      "id": 776224857,
-      "name": "ThePrimeagen/dev",
-      "url": "https://api.github.com/repos/ThePrimeagen/dev"
-    },
-    "payload": {
-      "repository_id": 776224857,
-      "push_id": 24210596580,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "f504247c9acdd460ac29b3050924021b270a94a7",
-      "before": "e9cdccf5a5cdee2bf919ed8ba289760e1752896c",
-      "commits": [
-        {
-          "sha": "f504247c9acdd460ac29b3050924021b270a94a7",
-          "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
-          },
-          "message": "automated dev commit",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/dev/commits/f504247c9acdd460ac29b3050924021b270a94a7"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-05-09T18:06:52Z"
-  },
-  {
-    "id": "49556183441",
-    "type": "PushEvent",
-    "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
-    },
-    "repo": {
-      "id": 577135082,
-      "name": "ThePrimeagen/init.lua",
-      "url": "https://api.github.com/repos/ThePrimeagen/init.lua"
-    },
-    "payload": {
-      "repository_id": 577135082,
-      "push_id": 24210596053,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "d5589926e6fa23fe5674870d90b2588923548d08",
-      "before": "ad855d2aa83c6ee642db7accc032dcbbf30cdc77",
-      "commits": [
-        {
-          "sha": "d5589926e6fa23fe5674870d90b2588923548d08",
-          "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
-          },
-          "message": "automated dev commit",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/init.lua/commits/d5589926e6fa23fe5674870d90b2588923548d08"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-05-09T18:06:50Z"
-  },
-  {
-    "id": "49377283142",
-    "type": "PushEvent",
-    "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
-    },
-    "repo": {
-      "id": 776224857,
-      "name": "ThePrimeagen/dev",
-      "url": "https://api.github.com/repos/ThePrimeagen/dev"
-    },
-    "payload": {
-      "repository_id": 776224857,
-      "push_id": 24121981044,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "e9cdccf5a5cdee2bf919ed8ba289760e1752896c",
-      "before": "e1d0507263078407925122696df5ff31e74e02a8",
-      "commits": [
-        {
-          "sha": "e9cdccf5a5cdee2bf919ed8ba289760e1752896c",
-          "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
-          },
-          "message": "automated dev commit",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/dev/commits/e9cdccf5a5cdee2bf919ed8ba289760e1752896c"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-05-05T18:05:18Z"
-  },
-  {
-    "id": "49376341249",
-    "type": "PushEvent",
-    "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
-    },
-    "repo": {
-      "id": 776224857,
-      "name": "ThePrimeagen/dev",
-      "url": "https://api.github.com/repos/ThePrimeagen/dev"
-    },
-    "payload": {
-      "repository_id": 776224857,
-      "push_id": 24121524430,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "e1d0507263078407925122696df5ff31e74e02a8",
-      "before": "af3bdb900288a23ed2fb6c9ad3779c306f1c7ba4",
-      "commits": [
-        {
-          "sha": "e1d0507263078407925122696df5ff31e74e02a8",
-          "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
-          },
-          "message": "fix all the configs for the configs",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/dev/commits/e1d0507263078407925122696df5ff31e74e02a8"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-05-05T17:37:51Z"
-  },
-  {
-    "id": "49375485012",
-    "type": "PushEvent",
-    "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
-    },
-    "repo": {
-      "id": 776224857,
-      "name": "ThePrimeagen/dev",
-      "url": "https://api.github.com/repos/ThePrimeagen/dev"
-    },
-    "payload": {
-      "repository_id": 776224857,
-      "push_id": 24121097511,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "af3bdb900288a23ed2fb6c9ad3779c306f1c7ba4",
-      "before": "a6fafd69ff7b0dcb3cdec5f858f223d9e649fb6c",
-      "commits": [
-        {
-          "sha": "af3bdb900288a23ed2fb6c9ad3779c306f1c7ba4",
-          "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
-          },
-          "message": "automated dev commit",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/dev/commits/af3bdb900288a23ed2fb6c9ad3779c306f1c7ba4"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-05-05T17:13:45Z"
-  },
-  {
-    "id": "49271951744",
-    "type": "PushEvent",
-    "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
-    },
-    "repo": {
-      "id": 776224857,
-      "name": "ThePrimeagen/dev",
-      "url": "https://api.github.com/repos/ThePrimeagen/dev"
-    },
-    "payload": {
-      "repository_id": 776224857,
-      "push_id": 24062790523,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "a6fafd69ff7b0dcb3cdec5f858f223d9e649fb6c",
-      "before": "f1d4ab6e4e1c909bbd107b5bc3b2d6e3236e4f21",
-      "commits": [
-        {
-          "sha": "a6fafd69ff7b0dcb3cdec5f858f223d9e649fb6c",
-          "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
-          },
-          "message": "fixed, saved, better",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/dev/commits/a6fafd69ff7b0dcb3cdec5f858f223d9e649fb6c"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-05-01T17:39:01Z"
-  },
-  {
-    "id": "49271200054",
-    "type": "PushEvent",
-    "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
-    },
-    "repo": {
-      "id": 776224857,
-      "name": "ThePrimeagen/dev",
-      "url": "https://api.github.com/repos/ThePrimeagen/dev"
-    },
-    "payload": {
-      "repository_id": 776224857,
-      "push_id": 24062393730,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "f1d4ab6e4e1c909bbd107b5bc3b2d6e3236e4f21",
-      "before": "130984cd5ceb1c227b332519a218da6d02b43baa",
-      "commits": [
-        {
-          "sha": "f1d4ab6e4e1c909bbd107b5bc3b2d6e3236e4f21",
-          "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
-          },
-          "message": "automated dev commit",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/dev/commits/f1d4ab6e4e1c909bbd107b5bc3b2d6e3236e4f21"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-05-01T17:12:31Z"
-  },
-  {
-    "id": "49271196890",
-    "type": "PushEvent",
-    "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
-    },
-    "repo": {
-      "id": 577135082,
-      "name": "ThePrimeagen/init.lua",
-      "url": "https://api.github.com/repos/ThePrimeagen/init.lua"
-    },
-    "payload": {
-      "repository_id": 577135082,
-      "push_id": 24062392081,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "ad855d2aa83c6ee642db7accc032dcbbf30cdc77",
-      "before": "b225b8c92af96c3a9e5d68336df8c710e294e82a",
-      "commits": [
-        {
-          "sha": "ad855d2aa83c6ee642db7accc032dcbbf30cdc77",
-          "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
-          },
-          "message": "automated dev commit",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/init.lua/commits/ad855d2aa83c6ee642db7accc032dcbbf30cdc77"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-05-01T17:12:23Z"
-  },
-  {
-    "id": "49271161856",
-    "type": "PushEvent",
-    "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
-    },
-    "repo": {
-      "id": 776224857,
-      "name": "ThePrimeagen/dev",
-      "url": "https://api.github.com/repos/ThePrimeagen/dev"
-    },
-    "payload": {
-      "repository_id": 776224857,
-      "push_id": 24062373290,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "130984cd5ceb1c227b332519a218da6d02b43baa",
-      "before": "3b3726a86a8d680e48cb2ea5a1849e9a93541c26",
-      "commits": [
-        {
-          "sha": "130984cd5ceb1c227b332519a218da6d02b43baa",
-          "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
-          },
-          "message": "automated dev commit",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/dev/commits/130984cd5ceb1c227b332519a218da6d02b43baa"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-05-01T17:11:08Z"
-  },
-  {
-    "id": "49271142050",
-    "type": "PushEvent",
-    "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
-    },
-    "repo": {
-      "id": 776224857,
-      "name": "ThePrimeagen/dev",
-      "url": "https://api.github.com/repos/ThePrimeagen/dev"
-    },
-    "payload": {
-      "repository_id": 776224857,
-      "push_id": 24062363703,
-      "size": 2,
-      "distinct_size": 2,
-      "ref": "refs/heads/master",
-      "head": "3b3726a86a8d680e48cb2ea5a1849e9a93541c26",
-      "before": "85659cecc526f46f45d19cefc2e5b73d68177996",
-      "commits": [
-        {
-          "sha": "78250ce4a316a6d551700e64c6c44daef855a3d7",
-          "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
-          },
-          "message": "feat: better running",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/dev/commits/78250ce4a316a6d551700e64c6c44daef855a3d7"
-        },
-        {
-          "sha": "3b3726a86a8d680e48cb2ea5a1849e9a93541c26",
-          "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
-          },
-          "message": "automated dev commit",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/dev/commits/3b3726a86a8d680e48cb2ea5a1849e9a93541c26"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-05-01T17:10:30Z"
-  },
-  {
-    "id": "49269310603",
-    "type": "PushEvent",
-    "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
-    },
-    "repo": {
-      "id": 776224857,
-      "name": "ThePrimeagen/dev",
-      "url": "https://api.github.com/repos/ThePrimeagen/dev"
-    },
-    "payload": {
-      "repository_id": 776224857,
-      "push_id": 24061428501,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "85659cecc526f46f45d19cefc2e5b73d68177996",
-      "before": "fd8f47f4ca25b9c133fc1701304101f5a4bac899",
-      "commits": [
-        {
-          "sha": "85659cecc526f46f45d19cefc2e5b73d68177996",
-          "author": {
-            "email": "prime@prime.prime",
-            "name": "Primeagain"
-          },
-          "message": "feat: origina",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/dev/commits/85659cecc526f46f45d19cefc2e5b73d68177996"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-05-01T16:06:31Z"
-  },
-  {
-    "id": "49233949231",
-    "type": "PushEvent",
-    "actor": {
-      "id": 4458174,
-      "login": "ThePrimeagen",
-      "display_login": "ThePrimeagen",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/ThePrimeagen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?"
-    },
-    "repo": {
-      "id": 776224857,
-      "name": "ThePrimeagen/dev",
-      "url": "https://api.github.com/repos/ThePrimeagen/dev"
-    },
-    "payload": {
-      "repository_id": 776224857,
-      "push_id": 24043234877,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "fd8f47f4ca25b9c133fc1701304101f5a4bac899",
-      "before": "775e17803236b71e213cff4d5f9a7dee41302424",
-      "commits": [
-        {
-          "sha": "fd8f47f4ca25b9c133fc1701304101f5a4bac899",
-          "author": {
-            "email": "the.primeagain@gmail.com",
-            "name": "Prime Again"
-          },
-          "message": "not sure if i need us",
-          "distinct": true,
-          "url": "https://api.github.com/repos/ThePrimeagen/dev/commits/fd8f47f4ca25b9c133fc1701304101f5a4bac899"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2025-04-30T15:35:47Z"
+      "url": "https://api.github.com/orgs/codecrafters-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58904235?"
+    }
   }
 ]
