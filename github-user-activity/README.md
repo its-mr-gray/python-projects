@@ -8,4 +8,4 @@ python3 main.py ThePrimeagen
 ```
 
 will return:
-![image of recent github activity for ThePrimeagen](./_assets/githubCLIReturnValues.png)
+![image of recent github activity for ThePrimeagen](../_assets/githubCLIReturnValues.png)
