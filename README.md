@@ -8,8 +8,8 @@ each project contains its own README with usage instructions.
 
 ## projects
 
-- [task tracker CLI](./task-tracker-cli/README.md)
-- [github user activity CLI](./github-user-activity/README.md)
+- [task tracker CLI](./task-tracker-cli/README.md) 
+- [github user activity CLI](./github-user-activity/README.md) project origin: https://roadmap.sh/projects/github-user-activity
 
 feel free to send any feedback my way!
 
