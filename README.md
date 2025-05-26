@@ -1,5 +1,13 @@
 # python-projects
 
+a repo for the projects i build in python (:
+
+all you'll need is **python3** to run projects from this repo. any 3rd party libraries will be included within the respective project's ```requirements.txt```.
+
+feel free to send any feedback my way! 
+
+[LinkedIn](https://www.linkedin.com/in/ferrell-gray-ab3121182/)
+
 ## 1. Task Tracker CLI
 - https://roadmap.sh/projects/task-tracker
 - a simple CLI for setting up a tracking tasks. tasks can be added, removed, and moved to different statuses. some examples:
