@@ -35,3 +35,13 @@ python3 main.py update-status "take out the trash" "TODO" "IN PROGRESS"
 
 ## 2. GitHub User Activity
 - https://roadmap.sh/projects/github-user-activity
+- a CLI for gathering recent github activity for a user-provided github username.
+
+an example:
+
+```bash
+python3 main.py ThePrimeagen
+```
+
+will return:
+![image of recent github activity for ThePrimeagen](_assets/githubCLIReturnValues.png)
