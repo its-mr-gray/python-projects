@@ -1,4 +1,4 @@
-- https://roadmap.sh/projects/github-user-activity
+https://roadmap.sh/projects/github-user-activity
 - a CLI for gathering recent github activity for a user-provided github username.
 
 an example:
