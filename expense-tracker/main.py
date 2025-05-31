@@ -51,3 +51,29 @@ You can implement the application using any programming language of your choice.
     Add error handling to handle invalid inputs and edge cases (e.g. negative amounts, non-existent expense IDs, etc).
     Use functions to modularize the code and make it easier to test and maintain.
 """
+
+import parsers
+import utilities
+
+args = parsers.args
+
+if __name__ == "__main__":
+    utilities.init_db()
+
+    if args.command == "add":
+        utilities.add_expense(
+            description=args.description, amount=args.amount, category=args.category
+        )
+    elif args.command == "view":
+        print(utilities.view_total_expenses())
+    elif args.command == "summary":
+        if args.category:
+            utilities.summarize_category_expenses(category=args.category)
+        elif args.monthly:
+            utilities.summarize_monthly_expenses(month=args.monthly)
+        else:
+            utilities.summarize_all_expenses()
+    elif args.command == "remove":
+        utilities.remove_expense(id=args.id)
+    elif args.command == "export":
+        utilities.export_to_csv()
