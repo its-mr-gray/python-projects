@@ -7,7 +7,7 @@ all expenses exist within a sqlite db
 usage:
 
 ```bash
-python3 main.py add --description 'babysitter' --amount 200
+python3 main.py add --description 'babysitter' --amount 200 --category 'personal'
 # expense added successfully (ID: 1)
 ```
 
