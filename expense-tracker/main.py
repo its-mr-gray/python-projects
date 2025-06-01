@@ -52,28 +52,13 @@ You can implement the application using any programming language of your choice.
     Use functions to modularize the code and make it easier to test and maintain.
 """
 
-import parsers
-import utilities
-
-args = parsers.args
+from parsers import args, parser
+from variables import COMMANDS
 
 if __name__ == "__main__":
-    utilities.init_db()
+    handler = COMMANDS.get(args.command)
 
-    if args.command == "add":
-        utilities.add_expense(
-            description=args.description, amount=args.amount, category=args.category
-        )
-    elif args.command == "view":
-        print(utilities.view_total_expenses())
-    elif args.command == "summary":
-        if args.category:
-            utilities.summarize_category_expenses(category=args.category)
-        elif args.monthly:
-            utilities.summarize_monthly_expenses(month=args.monthly)
-        else:
-            utilities.summarize_all_expenses()
-    elif args.command == "remove":
-        utilities.remove_expense(id=args.id)
-    elif args.command == "export":
-        utilities.export_to_csv()
+    if handler:
+        handler(args)
+    else:
+        parser.print_help()
