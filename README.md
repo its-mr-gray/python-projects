@@ -10,7 +10,7 @@ each project contains its own README with usage instructions.
 
 - [task tracker CLI](./task-tracker-cli/README.md) 
 - [github user activity CLI](./github-user-activity/README.md) 
-- [expense tracker CLI](./expense-tracker/README.md) source: https://roadmap.sh/projects/expense-tracker
+- [expense tracker CLI](./expense-tracker/README.md)
 feel free to send any feedback my way!
 
 [LinkedIn](https://www.linkedin.com/in/ferrell-gray-ab3121182/)
