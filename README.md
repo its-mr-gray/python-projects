@@ -1,4 +1,4 @@
-j# python-projects
+# python-projects
 
 a repo for the projects i build in python (:
 
