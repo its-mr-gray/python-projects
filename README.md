@@ -11,6 +11,7 @@ each project contains its own README with usage instructions.
 - [task tracker CLI](./task-tracker-cli/README.md) 
 - [github user activity CLI](./github-user-activity/README.md) 
 - [expense tracker CLI](./expense-tracker/README.md)
+- [number guessing game](./number-guessing-game/README.md) source: https://roadmap.sh/projects/number-guessing-game
   
 feel free to send any feedback my way!
 
