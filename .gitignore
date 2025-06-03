@@ -173,5 +173,8 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+#db files
+*.db
+
 # test files
 tester.py
